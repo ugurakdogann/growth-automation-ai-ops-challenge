@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+profiles/
+
+# Local/debug collection artifacts
+data/*.html
+data/debug_*.py
+data/extract_*.py
+data/parse_*.py
+data/search*.py
