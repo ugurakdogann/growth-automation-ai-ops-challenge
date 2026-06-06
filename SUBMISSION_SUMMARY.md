@@ -19,7 +19,6 @@ with transparent evidence, and generating personalized outreach messages.
 - Evidence-based email enrichment
 - LinkedIn DM and cold email generation
 - Output verification script
-- Bonus LinkedIn browser automation prototype
 
 ## Data Collection
 
@@ -30,8 +29,7 @@ SerpAPI. The collector searches queries like:
 site:linkedin.com/in/ "İK" "Turkcell"
 ```
 
-The main pipeline does not depend on direct LinkedIn browser scraping. The
-browser scraper under `scraper/` is included only as a bonus prototype.
+The main pipeline uses Google-indexed public LinkedIn profile results through SerpAPI.
 
 ## Final Output
 

@@ -280,8 +280,7 @@ class LeadIngestor:
 if __name__ == "__main__":
     ingestor = LeadIngestor(min_expected=100)
     
-    # Test: sample CSV
-    sample_path = "data/input_leads_sample.csv"
+    sample_path = "data/input_leads.json"
     if Path(sample_path).exists():
         leads, rejected = ingestor.ingest(sample_path)
         print(f"\nGeçerli: {len(leads)}, Red: {len(rejected)}")

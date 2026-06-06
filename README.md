@@ -44,9 +44,8 @@ merge edilsin diye `python main.py` tekrar çalıştırılır.
 
 ## Veri Toplama Metodu
 
-Ana pipeline doğrudan LinkedIn browser scraping'e bağlı değildir. Bu prototipte
-lead listesi Google/SerpAPI üzerinde indexlenmiş LinkedIn profil sonuçlarından
-üretilmiştir:
+Bu prototipte lead listesi Google/SerpAPI üzerinde indexlenmiş LinkedIn profil
+sonuçlarından üretilmiştir:
 
 ```text
 site:linkedin.com/in/ "İK" "Şirket Adı"
@@ -162,20 +161,6 @@ Son doğrulama:
 - Email leak: yok
 - Rejected: 0
 
-## Bonus: LinkedIn Scraper Prototipi
-
-`scraper/` klasörü bonus browser automation prototipidir. Ana çözüm bunun
-üzerine kurulmamıştır.
-
-İçerik:
-
-- `scraper/profile_manager.py`: profil rotasyonu prototipi
-- `scraper/anti_detect.py`: stealth/fingerprint test denemeleri
-- `scraper/linkedin_scraper.py`: LinkedIn profil ziyaret ve veri çıkarma prototipi
-
-Production için öneri: doğrudan LinkedIn scraping yerine izinli export/API
-kaynakları, düşük hacimli manuel doğrulama ve CRM odaklı takip akışı.
-
 ## Teslim Dosyaları
 
 - `SUBMISSION_SUMMARY.md`
@@ -184,7 +169,6 @@ kaynakları, düşük hacimli manuel doğrulama ve CRM odaklı takip akışı.
 - `main.py`
 - `pipeline/`
 - `scripts/`
-- `scraper/`
 - `data/input_leads.json`
 - `data/leads_clean.csv`
 - `data/leads_enriched.csv`
