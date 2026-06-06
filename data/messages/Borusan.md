@@ -19,7 +19,7 @@ Borusan bünyesindeki İK çalışmalarınızı takip ediyorum. Değişim yönet
 
 Konuşarak Öğren olarak kurumlara özel, günde 15 dakikalık İngilizce konuşma eğitimi sunuyoruz. 500'den fazla kurumsal müşterimizle çalışanların İngilizce özgüvenini artırıyoruz.
 
-İlginizi çekerse size özel bir çözüm sunumu hazırlayabilirim.
+Uygun olursanız 15 dakikalık kısa bir demo planlayabiliriz.
 
 Saygılarımla.
 
@@ -105,7 +105,7 @@ Konuşarak Öğren Kurumsal Ekibi
 
 ### LinkedIn DM
 
-Buket, iyi günler.
+Merhaba Buket,
 
 Borusan bünyesindeki İK çalışmalarınızı takip ediyorum. Değişim yönetimi direnci — dijital dönüşüm projelerinde çalışan adaptasyonu yavaş. Orta kademe yöneticilerin İK okuryazarlığı düşük. Grup şirketleri arası koordinasyon ek karmaşıklık getiriyor.
 
@@ -151,13 +151,13 @@ Konuşarak Öğren Kurumsal Ekibi
 
 ### LinkedIn DM
 
-Gürkan, iyi günler.
+Merhaba Gürkan,
 
 Borusan bünyesindeki İK çalışmalarınızı takip ediyorum. Operasyonel İK süreçlerinde verimlilik düşük — manuel iş yükü fazla. İK teknolojileri (HRIS) güncel değil, çalışan self-servis deneyimi zayıf. Grup şirketleri arası koordinasyon ek karmaşıklık getiriyor.
 
 Konuşarak Öğren olarak kurumlara özel, günde 15 dakikalık İngilizce konuşma eğitimi sunuyoruz. 500'den fazla kurumsal müşterimizle çalışanların İngilizce özgüvenini artırıyoruz.
 
-İlginizi çekerse size özel bir çözüm sunumu hazırlayabilirim.
+Uygun olursanız 15 dakikalık kısa bir demo planlayabiliriz.
 
 Saygılarımla.
 
@@ -197,13 +197,13 @@ Konuşarak Öğren Kurumsal Ekibi
 
 ### LinkedIn DM
 
-Elif, iyi günler.
+Merhaba Elif,
 
 Borusan bünyesindeki İK çalışmalarınızı takip ediyorum. Uzaktan çalışma modelinde eğitim etkileşimi düştü. Mikro-öğrenme ve kişiselleştirilmiş gelişim yol haritalarına ihtiyaç var. Grup şirketleri arası koordinasyon ek karmaşıklık getiriyor.
 
 Konuşarak Öğren olarak kurumlara özel, günde 15 dakikalık İngilizce konuşma eğitimi sunuyoruz. 500'den fazla kurumsal müşterimizle çalışanların İngilizce özgüvenini artırıyoruz.
 
-İlginizi çekerse size özel bir çözüm sunumu hazırlayabilirim.
+Uygun olursanız 15 dakikalık kısa bir demo planlayabiliriz.
 
 Saygılarımla.
 

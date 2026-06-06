@@ -13,13 +13,13 @@ Toplam: 4 kişi
 
 ### LinkedIn DM
 
-Boyner, iyi günler.
+Merhaba Boyner,
 
 Boyner bünyesindeki İK çalışmalarınızı takip ediyorum. Çalışan bağlılığı ve motivasyonu düşük eğilimde — özellikle genç yetenekleri elde tutmak giderek zorlaşıyor. Yüksek turnover ve mevsimsellik İK planlamasını zorlaştırıyor.
 
 Konuşarak Öğren olarak kurumlara özel, günde 15 dakikalık İngilizce konuşma eğitimi sunuyoruz. 500'den fazla kurumsal müşterimizle çalışanların İngilizce özgüvenini artırıyoruz.
 
-İlginizi çekerse size özel bir çözüm sunumu hazırlayabilirim.
+Uygun olursanız 15 dakikalık kısa bir demo planlayabiliriz.
 
 Saygılarımla.
 
@@ -59,7 +59,7 @@ Konuşarak Öğren Kurumsal Ekibi
 
 ### LinkedIn DM
 
-Doruk, iyi günler.
+Merhaba Doruk,
 
 Boyner bünyesindeki İK çalışmalarınızı takip ediyorum. Çoklu lokasyon / vardiya yapısı İK operasyonlarını karmaşıklaştırıyor. Dijitalleşme ve otomasyonla süreçleri sadeleştirmek şart. Yüksek turnover ve mevsimsellik İK planlamasını zorlaştırıyor.
 
@@ -105,7 +105,7 @@ Konuşarak Öğren Kurumsal Ekibi
 
 ### LinkedIn DM
 
-Merhaba Sait,
+Sait, iyi günler.
 
 Boyner bünyesindeki İK çalışmalarınızı takip ediyorum. Sınırlı İK bütçesiyle maksimum etki yaratma baskısı. Stratejik İK girişimlerine kaynak ayırmak zor. Yüksek turnover ve mevsimsellik İK planlamasını zorlaştırıyor.
 
@@ -157,7 +157,7 @@ Boyner bünyesindeki İK çalışmalarınızı takip ediyorum. Sınırlı İK b�
 
 Konuşarak Öğren olarak kurumlara özel, günde 15 dakikalık İngilizce konuşma eğitimi sunuyoruz. 500'den fazla kurumsal müşterimizle çalışanların İngilizce özgüvenini artırıyoruz.
 
-İlginizi çekerse size özel bir çözüm sunumu hazırlayabilirim.
+Uygun olursanız 15 dakikalık kısa bir demo planlayabiliriz.
 
 Saygılarımla.
 

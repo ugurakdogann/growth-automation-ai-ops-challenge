@@ -19,7 +19,7 @@ TAV bünyesindeki İK çalışmalarınızı takip ediyorum. Operasyonel İK sür
 
 Konuşarak Öğren olarak kurumlara özel, günde 15 dakikalık İngilizce konuşma eğitimi sunuyoruz. 500'den fazla kurumsal müşterimizle çalışanların İngilizce özgüvenini artırıyoruz.
 
-İlginizi çekerse size özel bir çözüm sunumu hazırlayabilirim.
+Uygun olursanız 15 dakikalık kısa bir demo planlayabiliriz.
 
 Saygılarımla.
 
@@ -59,13 +59,13 @@ Konuşarak Öğren Kurumsal Ekibi
 
 ### LinkedIn DM
 
-Merhaba Yalçın,
+Yalçın, iyi günler.
 
 TAV bünyesindeki İK çalışmalarınızı takip ediyorum. Çalışan bağlılığı ve motivasyonu düşük eğilimde — özellikle genç yetenekleri elde tutmak giderek zorlaşıyor.
 
 Konuşarak Öğren olarak kurumlara özel, günde 15 dakikalık İngilizce konuşma eğitimi sunuyoruz. 500'den fazla kurumsal müşterimizle çalışanların İngilizce özgüvenini artırıyoruz.
 
-Uygun olursanız 15 dakikalık kısa bir demo planlayabiliriz.
+İlginizi çekerse size özel bir çözüm sunumu hazırlayabilirim.
 
 Saygılarımla.
 
@@ -105,13 +105,13 @@ Konuşarak Öğren Kurumsal Ekibi
 
 ### LinkedIn DM
 
-Ibrahim, iyi günler.
+Merhaba Ibrahim,
 
 TAV bünyesindeki İK çalışmalarınızı takip ediyorum. Yetenek savaşı — kaliteli yazılımcı ve ürüncü bulmakta zorlanıyor. İngilizce bilen teknik ekip kurmak kritik rekabet avantajı.
 
 Konuşarak Öğren olarak kurumlara özel, günde 15 dakikalık İngilizce konuşma eğitimi sunuyoruz. 500'den fazla kurumsal müşterimizle çalışanların İngilizce özgüvenini artırıyoruz.
 
-İlginizi çekerse size özel bir çözüm sunumu hazırlayabilirim.
+Uygun olursanız 15 dakikalık kısa bir demo planlayabiliriz.
 
 Saygılarımla.
 
@@ -151,7 +151,7 @@ Konuşarak Öğren Kurumsal Ekibi
 
 ### LinkedIn DM
 
-Zeynep, iyi günler.
+Merhaba Zeynep,
 
 TAV bünyesindeki İK çalışmalarınızı takip ediyorum. Dijital dönüşüm yetkinliği olan çalışan eksikliği. Yönetim kuruluna İK metriklerini iş sonuçlarıyla ilişkilendirerek sunmak zor.
 
@@ -197,13 +197,13 @@ Konuşarak Öğren Kurumsal Ekibi
 
 ### LinkedIn DM
 
-Gülten, iyi günler.
+Merhaba Gülten,
 
 TAV bünyesindeki İK çalışmalarınızı takip ediyorum. Çalışan bağlılığı ve motivasyonu düşük eğilimde — özellikle genç yetenekleri elde tutmak giderek zorlaşıyor.
 
 Konuşarak Öğren olarak kurumlara özel, günde 15 dakikalık İngilizce konuşma eğitimi sunuyoruz. 500'den fazla kurumsal müşterimizle çalışanların İngilizce özgüvenini artırıyoruz.
 
-İlginizi çekerse size özel bir çözüm sunumu hazırlayabilirim.
+Uygun olursanız 15 dakikalık kısa bir demo planlayabiliriz.
 
 Saygılarımla.
 

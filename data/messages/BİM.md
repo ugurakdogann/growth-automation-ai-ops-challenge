@@ -13,13 +13,13 @@ Toplam: 9 kişi
 
 ### LinkedIn DM
 
-Merhaba Hasan,
+Hasan, iyi günler.
 
 BİM bünyesindeki İK çalışmalarınızı takip ediyorum. İK operasyonlarında dijitalleşme ve otomasyon ihtiyacı — manuel süreçler zaman kaybettiriyor ve hata riski yaratıyor. Yüksek turnover ve mevsimsellik İK planlamasını zorlaştırıyor.
 
 Konuşarak Öğren olarak kurumlara özel, günde 15 dakikalık İngilizce konuşma eğitimi sunuyoruz. 500'den fazla kurumsal müşterimizle çalışanların İngilizce özgüvenini artırıyoruz.
 
-Uygun olursanız 15 dakikalık kısa bir demo planlayabiliriz.
+İlginizi çekerse size özel bir çözüm sunumu hazırlayabilirim.
 
 Saygılarımla.
 
@@ -111,7 +111,7 @@ BİM bünyesindeki İK çalışmalarınızı takip ediyorum. Çalışan bağlıl
 
 Konuşarak Öğren olarak kurumlara özel, günde 15 dakikalık İngilizce konuşma eğitimi sunuyoruz. 500'den fazla kurumsal müşterimizle çalışanların İngilizce özgüvenini artırıyoruz.
 
-Uygun olursanız 15 dakikalık kısa bir demo planlayabiliriz.
+İlginizi çekerse size özel bir çözüm sunumu hazırlayabilirim.
 
 Saygılarımla.
 
@@ -151,13 +151,13 @@ Konuşarak Öğren Kurumsal Ekibi
 
 ### LinkedIn DM
 
-Arife, iyi günler.
+Merhaba Arife,
 
 BİM bünyesindeki İK çalışmalarınızı takip ediyorum. Çalışan bağlılığı ve motivasyonu düşük eğilimde — özellikle genç yetenekleri elde tutmak giderek zorlaşıyor. Yüksek turnover ve mevsimsellik İK planlamasını zorlaştırıyor.
 
 Konuşarak Öğren olarak kurumlara özel, günde 15 dakikalık İngilizce konuşma eğitimi sunuyoruz. 500'den fazla kurumsal müşterimizle çalışanların İngilizce özgüvenini artırıyoruz.
 
-İlginizi çekerse size özel bir çözüm sunumu hazırlayabilirim.
+Uygun olursanız 15 dakikalık kısa bir demo planlayabiliriz.
 
 Saygılarımla.
 
@@ -197,13 +197,13 @@ Konuşarak Öğren Kurumsal Ekibi
 
 ### LinkedIn DM
 
-Merhaba Ebru,
+Ebru, iyi günler.
 
 BİM bünyesindeki İK çalışmalarınızı takip ediyorum. İK operasyonlarında dijitalleşme ve otomasyon ihtiyacı — manuel süreçler zaman kaybettiriyor ve hata riski yaratıyor. Yüksek turnover ve mevsimsellik İK planlamasını zorlaştırıyor.
 
 Konuşarak Öğren olarak kurumlara özel, günde 15 dakikalık İngilizce konuşma eğitimi sunuyoruz. 500'den fazla kurumsal müşterimizle çalışanların İngilizce özgüvenini artırıyoruz.
 
-Uygun olursanız 15 dakikalık kısa bir demo planlayabiliriz.
+İlginizi çekerse size özel bir çözüm sunumu hazırlayabilirim.
 
 Saygılarımla.
 
@@ -243,7 +243,7 @@ Konuşarak Öğren Kurumsal Ekibi
 
 ### LinkedIn DM
 
-Arda, iyi günler.
+Merhaba Arda,
 
 BİM bünyesindeki İK çalışmalarınızı takip ediyorum. Nitelikli iş gücü bulma ve elde tutma zorluğu. Yüksek turnover ve mevsimsellik İK planlamasını zorlaştırıyor.
 
@@ -289,13 +289,13 @@ Konuşarak Öğren Kurumsal Ekibi
 
 ### LinkedIn DM
 
-Mutlu, iyi günler.
+Merhaba Mutlu,
 
 BİM bünyesindeki İK çalışmalarınızı takip ediyorum. Çalışan bağlılığı ve motivasyonu düşük eğilimde — özellikle genç yetenekleri elde tutmak giderek zorlaşıyor. Yüksek turnover ve mevsimsellik İK planlamasını zorlaştırıyor.
 
 Konuşarak Öğren olarak kurumlara özel, günde 15 dakikalık İngilizce konuşma eğitimi sunuyoruz. 500'den fazla kurumsal müşterimizle çalışanların İngilizce özgüvenini artırıyoruz.
 
-İlginizi çekerse size özel bir çözüm sunumu hazırlayabilirim.
+Uygun olursanız 15 dakikalık kısa bir demo planlayabiliriz.
 
 Saygılarımla.
 
@@ -335,13 +335,13 @@ Konuşarak Öğren Kurumsal Ekibi
 
 ### LinkedIn DM
 
-Merhaba Berke,
+Berke, iyi günler.
 
 BİM bünyesindeki İK çalışmalarınızı takip ediyorum. İK operasyonlarında dijitalleşme ve otomasyon ihtiyacı — manuel süreçler zaman kaybettiriyor ve hata riski yaratıyor. Yüksek turnover ve mevsimsellik İK planlamasını zorlaştırıyor.
 
 Konuşarak Öğren olarak kurumlara özel, günde 15 dakikalık İngilizce konuşma eğitimi sunuyoruz. 500'den fazla kurumsal müşterimizle çalışanların İngilizce özgüvenini artırıyoruz.
 
-İlginizi çekerse size özel bir çözüm sunumu hazırlayabilirim.
+Uygun olursanız 15 dakikalık kısa bir demo planlayabiliriz.
 
 Saygılarımla.
 
@@ -381,13 +381,13 @@ Konuşarak Öğren Kurumsal Ekibi
 
 ### LinkedIn DM
 
-Merhaba Hilal,
+Hilal, iyi günler.
 
 BİM bünyesindeki İK çalışmalarınızı takip ediyorum. İK operasyonlarında dijitalleşme ve otomasyon ihtiyacı — manuel süreçler zaman kaybettiriyor ve hata riski yaratıyor. Yüksek turnover ve mevsimsellik İK planlamasını zorlaştırıyor.
 
 Konuşarak Öğren olarak kurumlara özel, günde 15 dakikalık İngilizce konuşma eğitimi sunuyoruz. 500'den fazla kurumsal müşterimizle çalışanların İngilizce özgüvenini artırıyoruz.
 
-Uygun olursanız 15 dakikalık kısa bir demo planlayabiliriz.
+İlginizi çekerse size özel bir çözüm sunumu hazırlayabilirim.
 
 Saygılarımla.
 

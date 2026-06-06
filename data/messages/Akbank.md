@@ -19,7 +19,7 @@ Akbank bünyesindeki İK çalışmalarınızı takip ediyorum. Sınırlı İK b�
 
 Konuşarak Öğren olarak kurumlara özel, günde 15 dakikalık İngilizce konuşma eğitimi sunuyoruz. 500'den fazla kurumsal müşterimizle çalışanların İngilizce özgüvenini artırıyoruz.
 
-Uygun olursanız 15 dakikalık kısa bir demo planlayabiliriz.
+İlginizi çekerse size özel bir çözüm sunumu hazırlayabilirim.
 
 Saygılarımla.
 
@@ -111,7 +111,7 @@ Akbank bünyesindeki İK çalışmalarınızı takip ediyorum. İK operasyonlar�
 
 Konuşarak Öğren olarak kurumlara özel, günde 15 dakikalık İngilizce konuşma eğitimi sunuyoruz. 500'den fazla kurumsal müşterimizle çalışanların İngilizce özgüvenini artırıyoruz.
 
-Uygun olursanız 15 dakikalık kısa bir demo planlayabiliriz.
+İlginizi çekerse size özel bir çözüm sunumu hazırlayabilirim.
 
 Saygılarımla.
 
@@ -151,7 +151,7 @@ Konuşarak Öğren Kurumsal Ekibi
 
 ### LinkedIn DM
 
-Gamze, iyi günler.
+Merhaba Gamze,
 
 Akbank bünyesindeki İK çalışmalarınızı takip ediyorum. Uzaktan çalışma modelinde eğitim etkileşimi düştü. Mikro-öğrenme ve kişiselleştirilmiş gelişim yol haritalarına ihtiyaç var. Regülasyon ve dijitalleşme arasında denge kurmak kritik.
 
@@ -203,7 +203,7 @@ Akbank bünyesindeki İK çalışmalarınızı takip ediyorum. Çalışan bağl�
 
 Konuşarak Öğren olarak kurumlara özel, günde 15 dakikalık İngilizce konuşma eğitimi sunuyoruz. 500'den fazla kurumsal müşterimizle çalışanların İngilizce özgüvenini artırıyoruz.
 
-İlginizi çekerse size özel bir çözüm sunumu hazırlayabilirim.
+Uygun olursanız 15 dakikalık kısa bir demo planlayabiliriz.
 
 Saygılarımla.
 
@@ -249,7 +249,7 @@ Akbank bünyesindeki İK çalışmalarınızı takip ediyorum. Çalışan bağl�
 
 Konuşarak Öğren olarak kurumlara özel, günde 15 dakikalık İngilizce konuşma eğitimi sunuyoruz. 500'den fazla kurumsal müşterimizle çalışanların İngilizce özgüvenini artırıyoruz.
 
-Uygun olursanız 15 dakikalık kısa bir demo planlayabiliriz.
+İlginizi çekerse size özel bir çözüm sunumu hazırlayabilirim.
 
 Saygılarımla.
 
@@ -289,13 +289,13 @@ Konuşarak Öğren Kurumsal Ekibi
 
 ### LinkedIn DM
 
-Merhaba Sibel,
+Sibel, iyi günler.
 
 Akbank bünyesindeki İK çalışmalarınızı takip ediyorum. Grup şirketleri arası yetenek transferi ve standartlaşma zayıf. Farklı sektörler için farklı İK stratejisi gerekiyor. Regülasyon ve dijitalleşme arasında denge kurmak kritik.
 
 Konuşarak Öğren olarak kurumlara özel, günde 15 dakikalık İngilizce konuşma eğitimi sunuyoruz. 500'den fazla kurumsal müşterimizle çalışanların İngilizce özgüvenini artırıyoruz.
 
-Uygun olursanız 15 dakikalık kısa bir demo planlayabiliriz.
+İlginizi çekerse size özel bir çözüm sunumu hazırlayabilirim.
 
 Saygılarımla.
 
@@ -341,7 +341,7 @@ Akbank bünyesindeki İK çalışmalarınızı takip ediyorum. Sınırlı İK b�
 
 Konuşarak Öğren olarak kurumlara özel, günde 15 dakikalık İngilizce konuşma eğitimi sunuyoruz. 500'den fazla kurumsal müşterimizle çalışanların İngilizce özgüvenini artırıyoruz.
 
-Uygun olursanız 15 dakikalık kısa bir demo planlayabiliriz.
+İlginizi çekerse size özel bir çözüm sunumu hazırlayabilirim.
 
 Saygılarımla.
 
@@ -381,7 +381,7 @@ Konuşarak Öğren Kurumsal Ekibi
 
 ### LinkedIn DM
 
-Merhaba Pelin,
+Pelin, iyi günler.
 
 Akbank bünyesindeki İK çalışmalarınızı takip ediyorum. Grup şirketleri arası yetenek transferi ve standartlaşma zayıf. Farklı sektörler için farklı İK stratejisi gerekiyor. Regülasyon ve dijitalleşme arasında denge kurmak kritik.
 

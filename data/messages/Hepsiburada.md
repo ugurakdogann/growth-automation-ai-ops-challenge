@@ -13,13 +13,13 @@ Toplam: 2 kişi
 
 ### LinkedIn DM
 
-Vildan, iyi günler.
+Merhaba Vildan,
 
 Hepsiburada bünyesindeki İK çalışmalarınızı takip ediyorum. Değişim yönetimi direnci — dijital dönüşüm projelerinde çalışan adaptasyonu yavaş. Orta kademe yöneticilerin İK okuryazarlığı düşük.
 
 Konuşarak Öğren olarak kurumlara özel, günde 15 dakikalık İngilizce konuşma eğitimi sunuyoruz. 500'den fazla kurumsal müşterimizle çalışanların İngilizce özgüvenini artırıyoruz.
 
-İlginizi çekerse size özel bir çözüm sunumu hazırlayabilirim.
+Uygun olursanız 15 dakikalık kısa bir demo planlayabiliriz.
 
 Saygılarımla.
 
@@ -59,7 +59,7 @@ Konuşarak Öğren Kurumsal Ekibi
 
 ### LinkedIn DM
 
-Merhaba Ayça,
+Ayça, iyi günler.
 
 Hepsiburada bünyesindeki İK çalışmalarınızı takip ediyorum. Departmanlar arası yetenek transferi zor — silo yapısı İK'nın bütünsel strateji geliştirmesini engelliyor. Veriye dayalı İK kararları eksik.
 

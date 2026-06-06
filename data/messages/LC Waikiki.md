@@ -59,13 +59,13 @@ Konuşarak Öğren Kurumsal Ekibi
 
 ### LinkedIn DM
 
-Merhaba Nilufer,
+Nilufer, iyi günler.
 
 LC Waikiki bünyesindeki İK çalışmalarınızı takip ediyorum. Dijital dönüşüm yetkinliği olan çalışan eksikliği. Yönetim kuruluna İK metriklerini iş sonuçlarıyla ilişkilendirerek sunmak zor. Yüksek turnover ve mevsimsellik İK planlamasını zorlaştırıyor.
 
 Konuşarak Öğren olarak kurumlara özel, günde 15 dakikalık İngilizce konuşma eğitimi sunuyoruz. 500'den fazla kurumsal müşterimizle çalışanların İngilizce özgüvenini artırıyoruz.
 
-Uygun olursanız 15 dakikalık kısa bir demo planlayabiliriz.
+İlginizi çekerse size özel bir çözüm sunumu hazırlayabilirim.
 
 Saygılarımla.
 
@@ -111,7 +111,7 @@ LC Waikiki bünyesindeki İK çalışmalarınızı takip ediyorum. Nitelikli ada
 
 Konuşarak Öğren olarak kurumlara özel, günde 15 dakikalık İngilizce konuşma eğitimi sunuyoruz. 500'den fazla kurumsal müşterimizle çalışanların İngilizce özgüvenini artırıyoruz.
 
-İlginizi çekerse size özel bir çözüm sunumu hazırlayabilirim.
+Uygun olursanız 15 dakikalık kısa bir demo planlayabiliriz.
 
 Saygılarımla.
 
@@ -151,7 +151,7 @@ Konuşarak Öğren Kurumsal Ekibi
 
 ### LinkedIn DM
 
-Merhaba Satiye,
+Satiye, iyi günler.
 
 LC Waikiki bünyesindeki İK çalışmalarınızı takip ediyorum. Mavi yaka işe alımda yüksek turnover — mevsimsel dalgalanmaları yönetmek ve sürekli işe alım yapmak operasyonu yoruyor. Yüksek turnover ve mevsimsellik İK planlamasını zorlaştırıyor.
 
@@ -197,7 +197,7 @@ Konuşarak Öğren Kurumsal Ekibi
 
 ### LinkedIn DM
 
-Özgül, iyi günler.
+Merhaba Özgül,
 
 LC Waikiki bünyesindeki İK çalışmalarınızı takip ediyorum. Nitelikli aday havuzu daralıyor — teknik roller için başvuru sayısı düşüşte. İşe alım sürecini hızlandırıp aday deneyimini iyileştirmek kritik. Yüksek turnover ve mevsimsellik İK planlamasını zorlaştırıyor.
 
@@ -243,7 +243,7 @@ Konuşarak Öğren Kurumsal Ekibi
 
 ### LinkedIn DM
 
-Merhaba Tuğba,
+Tuğba, iyi günler.
 
 LC Waikiki bünyesindeki İK çalışmalarınızı takip ediyorum. Çalışan bağlılığı ve motivasyonu düşük eğilimde — özellikle genç yetenekleri elde tutmak giderek zorlaşıyor. Yüksek turnover ve mevsimsellik İK planlamasını zorlaştırıyor.
 

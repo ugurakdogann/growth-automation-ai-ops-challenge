@@ -13,7 +13,7 @@ Toplam: 4 kişi
 
 ### LinkedIn DM
 
-Merhaba Selen,
+Selen, iyi günler.
 
 Defacto bünyesindeki İK çalışmalarınızı takip ediyorum. Yetenek savaşı — kaliteli yazılımcı ve ürüncü bulmakta zorlanıyor. İngilizce bilen teknik ekip kurmak kritik rekabet avantajı. Yüksek turnover ve mevsimsellik İK planlamasını zorlaştırıyor.
 

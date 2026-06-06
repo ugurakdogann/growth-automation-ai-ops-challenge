@@ -13,13 +13,13 @@ Toplam: 1 kişi
 
 ### LinkedIn DM
 
-Merhaba Yasin,
+Yasin, iyi günler.
 
 Trendyol bünyesindeki İK çalışmalarınızı takip ediyorum. Çalışan bağlılığı ve motivasyonu düşük eğilimde — özellikle genç yetenekleri elde tutmak giderek zorlaşıyor. Özellikle teknik ekiplerde İngilizce iletişim zorunlu hale geliyor.
 
 Konuşarak Öğren olarak kurumlara özel, günde 15 dakikalık İngilizce konuşma eğitimi sunuyoruz. 500'den fazla kurumsal müşterimizle çalışanların İngilizce özgüvenini artırıyoruz.
 
-Uygun olursanız 15 dakikalık kısa bir demo planlayabiliriz.
+İlginizi çekerse size özel bir çözüm sunumu hazırlayabilirim.
 
 Saygılarımla.
 

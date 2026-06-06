@@ -13,13 +13,13 @@ Toplam: 3 kişi
 
 ### LinkedIn DM
 
-Ilhan, iyi günler.
+Merhaba Ilhan,
 
 Socar Turkey bünyesindeki İK çalışmalarınızı takip ediyorum. Çalışan gelişim bütçeleri kısıtlı — ölçülebilir ROI göstermek zor. Geleneksel eğitimler çalışanların ilgisini çekmiyor, tamamlama oranları düşük. Yeşil dönüşüm ve sürdürülebilirlik odaklı yeni roller doğuyor.
 
 Konuşarak Öğren olarak kurumlara özel, günde 15 dakikalık İngilizce konuşma eğitimi sunuyoruz. 500'den fazla kurumsal müşterimizle çalışanların İngilizce özgüvenini artırıyoruz.
 
-Uygun olursanız 15 dakikalık kısa bir demo planlayabiliriz.
+İlginizi çekerse size özel bir çözüm sunumu hazırlayabilirim.
 
 Saygılarımla.
 
@@ -59,7 +59,7 @@ Konuşarak Öğren Kurumsal Ekibi
 
 ### LinkedIn DM
 
-Merhaba Burcu,
+Burcu, iyi günler.
 
 Socar Turkey bünyesindeki İK çalışmalarınızı takip ediyorum. Sınırlı İK bütçesiyle maksimum etki yaratma baskısı. Stratejik İK girişimlerine kaynak ayırmak zor. Yeşil dönüşüm ve sürdürülebilirlik odaklı yeni roller doğuyor.
 
@@ -111,7 +111,7 @@ Socar Turkey bünyesindeki İK çalışmalarınızı takip ediyorum. Çoklu loka
 
 Konuşarak Öğren olarak kurumlara özel, günde 15 dakikalık İngilizce konuşma eğitimi sunuyoruz. 500'den fazla kurumsal müşterimizle çalışanların İngilizce özgüvenini artırıyoruz.
 
-Uygun olursanız 15 dakikalık kısa bir demo planlayabiliriz.
+İlginizi çekerse size özel bir çözüm sunumu hazırlayabilirim.
 
 Saygılarımla.
 

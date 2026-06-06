@@ -19,7 +19,7 @@ THY bünyesindeki İK çalışmalarınızı takip ediyorum. Değişim yönetimi 
 
 Konuşarak Öğren olarak kurumlara özel, günde 15 dakikalık İngilizce konuşma eğitimi sunuyoruz. 500'den fazla kurumsal müşterimizle çalışanların İngilizce özgüvenini artırıyoruz.
 
-İlginizi çekerse size özel bir çözüm sunumu hazırlayabilirim.
+Uygun olursanız 15 dakikalık kısa bir demo planlayabiliriz.
 
 Saygılarımla.
 
@@ -105,13 +105,13 @@ Konuşarak Öğren Kurumsal Ekibi
 
 ### LinkedIn DM
 
-Merhaba Pelin,
+Pelin, iyi günler.
 
 THY bünyesindeki İK çalışmalarınızı takip ediyorum. İK operasyonlarında dijitalleşme ve otomasyon ihtiyacı — manuel süreçler zaman kaybettiriyor ve hata riski yaratıyor. Uluslararası standartlar İngilizce yetkinliği zorunlu kılıyor.
 
 Konuşarak Öğren olarak kurumlara özel, günde 15 dakikalık İngilizce konuşma eğitimi sunuyoruz. 500'den fazla kurumsal müşterimizle çalışanların İngilizce özgüvenini artırıyoruz.
 
-Uygun olursanız 15 dakikalık kısa bir demo planlayabiliriz.
+İlginizi çekerse size özel bir çözüm sunumu hazırlayabilirim.
 
 Saygılarımla.
 
@@ -151,13 +151,13 @@ Konuşarak Öğren Kurumsal Ekibi
 
 ### LinkedIn DM
 
-Merhaba Büşra,
+Büşra, iyi günler.
 
 THY bünyesindeki İK çalışmalarınızı takip ediyorum. Sınırlı İK bütçesiyle maksimum etki yaratma baskısı. Stratejik İK girişimlerine kaynak ayırmak zor. Uluslararası standartlar İngilizce yetkinliği zorunlu kılıyor.
 
 Konuşarak Öğren olarak kurumlara özel, günde 15 dakikalık İngilizce konuşma eğitimi sunuyoruz. 500'den fazla kurumsal müşterimizle çalışanların İngilizce özgüvenini artırıyoruz.
 
-Uygun olursanız 15 dakikalık kısa bir demo planlayabiliriz.
+İlginizi çekerse size özel bir çözüm sunumu hazırlayabilirim.
 
 Saygılarımla.
 
@@ -197,13 +197,13 @@ Konuşarak Öğren Kurumsal Ekibi
 
 ### LinkedIn DM
 
-Merhaba Muhammed,
+Muhammed, iyi günler.
 
 THY bünyesindeki İK çalışmalarınızı takip ediyorum. Departmanlar arası yetenek transferi zor — silo yapısı İK'nın bütünsel strateji geliştirmesini engelliyor. Veriye dayalı İK kararları eksik. Uluslararası standartlar İngilizce yetkinliği zorunlu kılıyor.
 
 Konuşarak Öğren olarak kurumlara özel, günde 15 dakikalık İngilizce konuşma eğitimi sunuyoruz. 500'den fazla kurumsal müşterimizle çalışanların İngilizce özgüvenini artırıyoruz.
 
-İlginizi çekerse size özel bir çözüm sunumu hazırlayabilirim.
+Uygun olursanız 15 dakikalık kısa bir demo planlayabiliriz.
 
 Saygılarımla.
 

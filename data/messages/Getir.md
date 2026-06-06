@@ -19,7 +19,7 @@ Getir bünyesindeki İK çalışmalarınızı takip ediyorum. Çalışan bağlı
 
 Konuşarak Öğren olarak kurumlara özel, günde 15 dakikalık İngilizce konuşma eğitimi sunuyoruz. 500'den fazla kurumsal müşterimizle çalışanların İngilizce özgüvenini artırıyoruz.
 
-İlginizi çekerse size özel bir çözüm sunumu hazırlayabilirim.
+Uygun olursanız 15 dakikalık kısa bir demo planlayabiliriz.
 
 Saygılarımla.
 
@@ -59,7 +59,7 @@ Konuşarak Öğren Kurumsal Ekibi
 
 ### LinkedIn DM
 
-Eda, iyi günler.
+Merhaba Eda,
 
 Getir bünyesindeki İK çalışmalarınızı takip ediyorum. Hızlı değişen teknoloji karşısında iş gücünün yetkinlikleri hızla eskimekte. Reskilling / upskilling programları kurumsal stratejiyle hizalanmış değil. Özellikle teknik ekiplerde İngilizce iletişim zorunlu hale geliyor.
 
@@ -111,7 +111,7 @@ Getir bünyesindeki İK çalışmalarınızı takip ediyorum. Çalışan bağlı
 
 Konuşarak Öğren olarak kurumlara özel, günde 15 dakikalık İngilizce konuşma eğitimi sunuyoruz. 500'den fazla kurumsal müşterimizle çalışanların İngilizce özgüvenini artırıyoruz.
 
-İlginizi çekerse size özel bir çözüm sunumu hazırlayabilirim.
+Uygun olursanız 15 dakikalık kısa bir demo planlayabiliriz.
 
 Saygılarımla.
 
@@ -151,13 +151,13 @@ Konuşarak Öğren Kurumsal Ekibi
 
 ### LinkedIn DM
 
-Merhaba Başak,
+Başak, iyi günler.
 
 Getir bünyesindeki İK çalışmalarınızı takip ediyorum. Grup şirketleri arası yetenek transferi ve standartlaşma zayıf. Farklı sektörler için farklı İK stratejisi gerekiyor. Özellikle teknik ekiplerde İngilizce iletişim zorunlu hale geliyor.
 
 Konuşarak Öğren olarak kurumlara özel, günde 15 dakikalık İngilizce konuşma eğitimi sunuyoruz. 500'den fazla kurumsal müşterimizle çalışanların İngilizce özgüvenini artırıyoruz.
 
-Uygun olursanız 15 dakikalık kısa bir demo planlayabiliriz.
+İlginizi çekerse size özel bir çözüm sunumu hazırlayabilirim.
 
 Saygılarımla.
 

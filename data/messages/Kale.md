@@ -59,7 +59,7 @@ Konuşarak Öğren Kurumsal Ekibi
 
 ### LinkedIn DM
 
-Merhaba Hoya,
+Hoya, iyi günler.
 
 Kale bünyesindeki İK çalışmalarınızı takip ediyorum. İK operasyonlarında dijitalleşme ve otomasyon ihtiyacı — manuel süreçler zaman kaybettiriyor ve hata riski yaratıyor. Uluslararası standartlar İngilizce yetkinliği zorunlu kılıyor.
 
@@ -105,13 +105,13 @@ Konuşarak Öğren Kurumsal Ekibi
 
 ### LinkedIn DM
 
-Hümeyra, iyi günler.
+Merhaba Hümeyra,
 
 Kale bünyesindeki İK çalışmalarınızı takip ediyorum. Operasyonel İK süreçlerinde verimlilik düşük — manuel iş yükü fazla. İK teknolojileri (HRIS) güncel değil, çalışan self-servis deneyimi zayıf. Uluslararası standartlar İngilizce yetkinliği zorunlu kılıyor.
 
 Konuşarak Öğren olarak kurumlara özel, günde 15 dakikalık İngilizce konuşma eğitimi sunuyoruz. 500'den fazla kurumsal müşterimizle çalışanların İngilizce özgüvenini artırıyoruz.
 
-Uygun olursanız 15 dakikalık kısa bir demo planlayabiliriz.
+İlginizi çekerse size özel bir çözüm sunumu hazırlayabilirim.
 
 Saygılarımla.
 
@@ -151,7 +151,7 @@ Konuşarak Öğren Kurumsal Ekibi
 
 ### LinkedIn DM
 
-Suleyman, iyi günler.
+Merhaba Suleyman,
 
 Kale bünyesindeki İK çalışmalarınızı takip ediyorum. Operasyonel İK süreçlerinde verimlilik düşük — manuel iş yükü fazla. İK teknolojileri (HRIS) güncel değil, çalışan self-servis deneyimi zayıf. Uluslararası standartlar İngilizce yetkinliği zorunlu kılıyor.
 
@@ -203,7 +203,7 @@ Kale bünyesindeki İK çalışmalarınızı takip ediyorum. Çoklu lokasyon / v
 
 Konuşarak Öğren olarak kurumlara özel, günde 15 dakikalık İngilizce konuşma eğitimi sunuyoruz. 500'den fazla kurumsal müşterimizle çalışanların İngilizce özgüvenini artırıyoruz.
 
-İlginizi çekerse size özel bir çözüm sunumu hazırlayabilirim.
+Uygun olursanız 15 dakikalık kısa bir demo planlayabiliriz.
 
 Saygılarımla.
 

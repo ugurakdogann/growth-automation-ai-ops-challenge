@@ -59,13 +59,13 @@ Konuşarak Öğren Kurumsal Ekibi
 
 ### LinkedIn DM
 
-Dr., iyi günler.
+Merhaba Dr.,
 
 Anadolu bünyesindeki İK çalışmalarınızı takip ediyorum. Dijital dönüşüm yetkinliği olan çalışan eksikliği. Yönetim kuruluna İK metriklerini iş sonuçlarıyla ilişkilendirerek sunmak zor. Grup şirketleri arası koordinasyon ek karmaşıklık getiriyor.
 
 Konuşarak Öğren olarak kurumlara özel, günde 15 dakikalık İngilizce konuşma eğitimi sunuyoruz. 500'den fazla kurumsal müşterimizle çalışanların İngilizce özgüvenini artırıyoruz.
 
-Uygun olursanız 15 dakikalık kısa bir demo planlayabiliriz.
+İlginizi çekerse size özel bir çözüm sunumu hazırlayabilirim.
 
 Saygılarımla.
 
@@ -111,7 +111,7 @@ Anadolu bünyesindeki İK çalışmalarınızı takip ediyorum. Çalışan bağl
 
 Konuşarak Öğren olarak kurumlara özel, günde 15 dakikalık İngilizce konuşma eğitimi sunuyoruz. 500'den fazla kurumsal müşterimizle çalışanların İngilizce özgüvenini artırıyoruz.
 
-Uygun olursanız 15 dakikalık kısa bir demo planlayabiliriz.
+İlginizi çekerse size özel bir çözüm sunumu hazırlayabilirim.
 
 Saygılarımla.
 

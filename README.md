@@ -1,10 +1,10 @@
 # Growth Automation & AI Ops Intern Challenge
 
-Konuşarak Öğren için hazırlanmış input-driven growth automation prototipi.
+Konuşarak Öğren için hazırlanmış girdi odaklı growth automation prototipi.
 
-Amaç: Türkiye'deki İK profesyonellerini hedefleyen bir lead listesi üretmek,
-lead'leri zenginleştirmek, skorlamak ve kişiselleştirilmiş LinkedIn DM / cold
-email mesajları hazırlamak.
+Amaç: Türkiye'deki İK profesyonellerinden oluşan bir lead listesi üretmek,
+bu lead'leri temizlemek, zenginleştirmek, puanlamak ve kişiselleştirilmiş
+LinkedIn DM / cold email mesajları hazırlamak.
 
 ## Son Durum
 
@@ -12,8 +12,8 @@ email mesajları hazırlamak.
 - Şirket sayısı: 42
 - Final dosya: `data/leads_final.xlsx`
 - Mesaj dosyaları: `data/messages/`
-- Gerçek public kişisel email: 0
-- Tahmini email: 181, ayrı kolonda ve evidence URL ile
+- Gerçek herkese açık kişisel email: 0
+- Tahmini email: 181, ayrı kolonda ve kanıt URL'si ile
 - Needs review: 6 lead
 
 ## Çalıştırma
@@ -21,7 +21,7 @@ email mesajları hazırlamak.
 ```bash
 pip install -r requirements.txt
 
-# Veri zaten hazırsa bu adımdan başlanır.
+# Hazır veriyle çalıştırma
 python main.py
 python scripts/email_enrich.py
 python main.py
@@ -38,25 +38,27 @@ python main.py
 python scripts/verify_outputs.py
 ```
 
-Alternatif olarak API key environment variable ile verilebilir:
+API key ortam değişkeni ile de verilebilir:
 
 ```powershell
 $env:SERPAPI_KEY="YOUR_SERPAPI_KEY"
 python scripts/collect_leads.py --max 4
 ```
 
-Güvenlik nedeniyle repo içinde gerçek SerpAPI / Google Search API key'i
-bırakılmamıştır. Mevcut `data/input_leads.json` dosyası hazır örnek veri olarak
-gelir; sıfırdan veri toplamak isteyen kişi kendi API key'ini kullanmalıdır.
+Güvenlik nedeniyle repo içinde gerçek SerpAPI / Google Search API key'i yoktur.
+Mevcut `data/input_leads.json` hazır örnek veri olarak gelir. Sıfırdan veri
+toplamak isteyen kişi kendi API key'ini kullanmalıdır.
 
 Not: `scripts/email_enrich.py`, `leads_enriched.csv` üzerinden çalıştığı için
-önce `python main.py` ile lead enrichment çıktısı üretilir. Sonra email alanları
-merge edilsin diye `python main.py` tekrar çalıştırılır.
+önce `python main.py` ile lead zenginleştirme çıktısı üretilir. Sonra email
+alanları final dosyaya merge edilsin diye `python main.py` tekrar çalıştırılır.
 
 ## Veri Toplama Metodu
 
-Bu prototipte lead listesi Google Search sonuçlarını kullanan SerpAPI üzerinden
-indexlenmiş LinkedIn profil sonuçlarından üretilmiştir:
+Bu prototipte lead listesi, Google Search sonuçlarını kullanan SerpAPI üzerinden
+indexlenmiş LinkedIn profil sonuçlarından üretilmiştir.
+
+Örnek sorgu:
 
 ```text
 site:linkedin.com/in/ "İK" "Şirket Adı"
@@ -70,20 +72,20 @@ Toplanan temel alanlar:
 - `linkedin_url`
 - `source`
 
-Bu yaklaşım challenge için küçük ama çalışan bir prototip sunar. Production
-ortamında Apollo, CRM export, izinli Sales Navigator workflow'u veya şirket
-web sitelerinden manuel/yarı otomatik lead toplama tercih edilebilir.
+Bu yaklaşım challenge için küçük ama çalışan bir prototip sunar. Canlı ortamda
+Apollo, CRM export, izinli Sales Navigator iş akışı veya şirket web sitelerinden
+manuel/yarı otomatik lead toplama tercih edilebilir.
 
-## Pipeline
+## İş Akışı
 
 ```text
 input_leads.json
-  -> ingestion
-  -> cleaner
-  -> lead enrichment
-  -> email enrichment
-  -> message generation
-  -> verification
+  -> veri alma
+  -> temizleme
+  -> lead zenginleştirme
+  -> email zenginleştirme
+  -> mesaj üretimi
+  -> doğrulama
 ```
 
 Ana dosyalar:
@@ -93,12 +95,12 @@ Ana dosyalar:
 - `pipeline/cleaner.py`: duplicate ve veri temizliği
 - `pipeline/enricher.py`: sektör, şirket büyüklüğü, pain point, English need, lead score
 - `pipeline/generator.py`: LinkedIn DM ve cold email üretimi
-- `scripts/collect_leads.py`: SerpAPI ile public search sonuçlarından lead toplama
+- `scripts/collect_leads.py`: SerpAPI ile herkese açık arama sonuçlarından lead toplama
 - `scripts/email_enrich.py`: kanıt temelli email tahmini
-- `scripts/email_evidence.py`: şirket domain evidence veritabanı
+- `scripts/email_evidence.py`: şirket domain kanıt veritabanı
 - `scripts/verify_outputs.py`: çıktı doğrulama
 
-## Lead Enrichment
+## Lead Zenginleştirme
 
 Her lead için eklenen alanlar:
 
@@ -112,7 +114,7 @@ Her lead için eklenen alanlar:
 - `needs_review`
 - `lead_score`
 
-Son doğrulamada HR role dağılımı:
+Son doğrulamada HR rol dağılımı:
 
 - HR Generalist: 89
 - CHRO / Director / Head: 27
@@ -122,17 +124,17 @@ Son doğrulamada HR role dağılımı:
 - Talent Acquisition: 9
 - Belirsiz: 6
 
-## Email Enrichment
+## Email Zenginleştirme
 
-Public kişisel HR email'i bulunmadığı için `E-posta` kolonu boş bırakılmıştır.
-Tahmini emailler `Tahmini E-posta` kolonunda tutulur.
+Herkese açık kişisel HR email'i bulunmadığı için `E-posta` kolonu boş
+bırakılmıştır. Tahmini emailler `Tahmini E-posta` kolonunda tutulur.
 
 Email status mantığı:
 
-| Status | Açıklama | Confidence |
+| Status | Açıklama | Güven Skoru |
 | --- | --- | --- |
-| `found_public` | Lead'in kendi public email'i bulundu | 95 |
-| `estimated_from_employee_pattern` | Aynı şirketten public çalışan email örneğiyle pattern çıkarıldı | 85 |
+| `found_public` | Lead'in kendi herkese açık email'i bulundu | 95 |
+| `estimated_from_employee_pattern` | Aynı şirketten herkese açık çalışan email örneğiyle pattern çıkarıldı | 85 |
 | `estimated_from_company_domain` | Resmi şirket domain kanıtı var, email pattern tahmin edildi | 70 |
 | `low_confidence_guess` | Kanıt yok, düşük güvenli tahmin | 50 |
 
@@ -153,10 +155,10 @@ Her lead için iki çıktı üretilir:
 - LinkedIn DM: kısa, profesyonel B2B mesaj
 - Cold email: konu satırı ve daha detaylı değer önerisi
 
-Mesajlar şirket, rol, pain point, English need ve outreach angle alanlarını kullanır.
-Firma bazlı Markdown çıktıları `data/messages/` altındadır.
+Mesajlar şirket, rol, pain point, English need ve outreach angle alanlarını
+kullanır. Firma bazlı Markdown çıktıları `data/messages/` altındadır.
 
-## Verification
+## Doğrulama
 
 ```bash
 python scripts/verify_outputs.py

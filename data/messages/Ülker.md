@@ -13,13 +13,13 @@ Toplam: 2 kişi
 
 ### LinkedIn DM
 
-Merhaba Ulker,
+Ulker, iyi günler.
 
 Ülker bünyesindeki İK çalışmalarınızı takip ediyorum. İK operasyonlarında dijitalleşme ve otomasyon ihtiyacı — manuel süreçler zaman kaybettiriyor ve hata riski yaratıyor.
 
 Konuşarak Öğren olarak kurumlara özel, günde 15 dakikalık İngilizce konuşma eğitimi sunuyoruz. 500'den fazla kurumsal müşterimizle çalışanların İngilizce özgüvenini artırıyoruz.
 
-İlginizi çekerse size özel bir çözüm sunumu hazırlayabilirim.
+Uygun olursanız 15 dakikalık kısa bir demo planlayabiliriz.
 
 Saygılarımla.
 
@@ -59,7 +59,7 @@ Konuşarak Öğren Kurumsal Ekibi
 
 ### LinkedIn DM
 
-Meltem, iyi günler.
+Merhaba Meltem,
 
 Ülker bünyesindeki İK çalışmalarınızı takip ediyorum. Bordro ve özlük hataları çalışan memnuniyetini düşürüyor. Mevzuat değişikliklerine uyum sağlamak zaman alıyor.
 

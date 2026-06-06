@@ -13,7 +13,7 @@ Toplam: 1 kişi
 
 ### LinkedIn DM
 
-Merhaba Seçil,
+Seçil, iyi günler.
 
 MediaMarkt Turkey bünyesindeki İK çalışmalarınızı takip ediyorum. Yetenek savaşı — kaliteli yazılımcı ve ürüncü bulmakta zorlanıyor. İngilizce bilen teknik ekip kurmak kritik rekabet avantajı. Yüksek turnover ve mevsimsellik İK planlamasını zorlaştırıyor.
 

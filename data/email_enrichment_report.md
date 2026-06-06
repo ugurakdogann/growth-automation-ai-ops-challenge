@@ -1,5 +1,5 @@
 # Email Enrichment Raporu v3
-**Tarih:** 2026-06-06 11:24 | **Toplam lead:** 181
+**Tarih:** 2026-06-06 12:10 | **Toplam lead:** 181
 
 ## Özet
 | Durum | Sayı | Oran |
@@ -9,7 +9,7 @@
 | estimated_from_company_domain | 181 | %100.0 |
 | low_confidence_guess | 0 | %0.0 |
 
-## Confidence Dağılımı
+## Güven Skoru Dağılımı
 - **70:** 181 lead
 
 ## Şirket Bazlı Dağılım
@@ -56,94 +56,94 @@
 - **İş Bankası**: 0F 0E 5D 0L
 - **Şişecam**: 0F 0E 6D 0L
 
-## Evidence Summary
-- **Akbank**: 1 evidence URL(s)
+## Kanıt Özeti
+- **Akbank**: 1 kanıt URL'si
   - https://www.akbank.com/tr-tr/iletisim
-- **Allianz Turkey**: 1 evidence URL(s)
+- **Allianz Turkey**: 1 kanıt URL'si
   - https://www.allianz.com.tr/tr_TR/sizin-icin/iletisim.html
-- **Anadolu**: 1 evidence URL(s)
+- **Anadolu**: 1 kanıt URL'si
   - https://www.anadolugrubu.com.tr/tr/iletisim
-- **Arçelik**: 1 evidence URL(s)
+- **Arçelik**: 1 kanıt URL'si
   - https://www.arcelik.com/iletisim
-- **Borusan**: 1 evidence URL(s)
+- **Borusan**: 1 kanıt URL'si
   - https://www.borusan.com/tr/iletisim
-- **Boyner**: 1 evidence URL(s)
+- **Boyner**: 1 kanıt URL'si
   - https://www.boyner.com.tr/iletisim
-- **BİM**: 1 evidence URL(s)
+- **BİM**: 1 kanıt URL'si
   - https://www.bim.com.tr/iletisim.aspx
-- **CCI**: 1 evidence URL(s)
+- **CCI**: 1 kanıt URL'si
   - https://www.cci.com.tr/tr/iletisim
-- **Defacto**: 1 evidence URL(s)
+- **Defacto**: 1 kanıt URL'si
   - https://www.defacto.com.tr/iletisim
-- **Doğuş**: 1 evidence URL(s)
+- **Doğuş**: 1 kanıt URL'si
   - https://www.dogusgrubu.com.tr/tr/iletisim
-- **Eczacıbaşı**: 1 evidence URL(s)
+- **Eczacıbaşı**: 1 kanıt URL'si
   - https://www.eczacibasi.com.tr/iletisim
-- **Enerjisa**: 1 evidence URL(s)
+- **Enerjisa**: 1 kanıt URL'si
   - https://www.enerjisa.com.tr/tr/iletisim
-- **Eti**: 1 evidence URL(s)
+- **Eti**: 1 kanıt URL'si
   - https://www.eti.com.tr/iletisim
-- **Ford Otosan**: 1 evidence URL(s)
+- **Ford Otosan**: 1 kanıt URL'si
   - https://www.fordotosan.com.tr/tr/iletisim
-- **Garanti BBVA**: 1 evidence URL(s)
+- **Garanti BBVA**: 1 kanıt URL'si
   - https://www.garantibbva.com.tr/iletisim
-- **Getir**: 1 evidence URL(s)
+- **Getir**: 1 kanıt URL'si
   - https://getir.com/tr/kariyer/
-- **Hepsiburada**: 1 evidence URL(s)
+- **Hepsiburada**: 1 kanıt URL'si
   - https://www.hepsiburada.com/iletisim
-- **Kale**: 1 evidence URL(s)
+- **Kale**: 1 kanıt URL'si
   - https://www.kale.com.tr/tr-en/ethics-hotline
-- **Kariyer.net**: 1 evidence URL(s)
+- **Kariyer.net**: 1 kanıt URL'si
   - https://www.kariyer.net/iletisim
-- **Koç Holding**: 1 evidence URL(s)
+- **Koç Holding**: 1 kanıt URL'si
   - https://www.koc.com.tr/iletisim
-- **LC Waikiki**: 1 evidence URL(s)
+- **LC Waikiki**: 1 kanıt URL'si
   - https://www.lcwaikiki.com/tr-TR/TR/iletisim
-- **MediaMarkt Turkey**: 1 evidence URL(s)
+- **MediaMarkt Turkey**: 1 kanıt URL'si
   - https://www.mediamarkt.com.tr/tr/iletisim
-- **Migros**: 1 evidence URL(s)
+- **Migros**: 1 kanıt URL'si
   - https://www.migros.com.tr/iletisim
-- **Nestlé Turkey**: 1 evidence URL(s)
+- **Nestlé Turkey**: 1 kanıt URL'si
   - https://www.nestle.com.tr/tr/iletisim
-- **P&G Turkey**: 1 evidence URL(s)
+- **P&G Turkey**: 1 kanıt URL'si
   - https://www.pg.com/tr_TR/contact
-- **Papara**: 1 evidence URL(s)
+- **Papara**: 1 kanıt URL'si
   - https://www.papara.com/contact?hl=tr_TR
-- **Pegasus**: 1 evidence URL(s)
+- **Pegasus**: 1 kanıt URL'si
   - https://www.flypgs.com/kurumsal/iletisim
-- **Sabancı Holding**: 1 evidence URL(s)
+- **Sabancı Holding**: 1 kanıt URL'si
   - https://www.sabanci.com/tr/iletisim
-- **Siemens Turkey**: 1 evidence URL(s)
+- **Siemens Turkey**: 1 kanıt URL'si
   - https://www.siemens.com.tr/tr/tr/iletisim
-- **Socar Turkey**: 1 evidence URL(s)
+- **Socar Turkey**: 1 kanıt URL'si
   - https://www.socar.com.tr/tr/iletisim
-- **TAV**: 1 evidence URL(s)
+- **TAV**: 1 kanıt URL'si
   - https://www.tav.aero/tr/iletisim
-- **THY**: 1 evidence URL(s)
+- **THY**: 1 kanıt URL'si
   - https://investor.thy.com/tr/contact
-- **Tofaş**: 1 evidence URL(s)
+- **Tofaş**: 1 kanıt URL'si
   - https://www.tofas.com.tr/tr/iletisim
-- **Trendyol**: 1 evidence URL(s)
+- **Trendyol**: 1 kanıt URL'si
   - https://www.trendyol.com/iletisim
-- **Turkcell**: 1 evidence URL(s)
+- **Turkcell**: 1 kanıt URL'si
   - https://tedarik.turkcell.com.tr/Shared%20Documents/BeSupplier/TURKCELL%20%C4%B0NSAN%20HAKLARI%20POL%C4%B0T%C4%B0KASI.pdf
-- **Türk Telekom**: 1 evidence URL(s)
+- **Türk Telekom**: 1 kanıt URL'si
   - https://www.turktelekom.com.tr/tr/iletisim
-- **Vodafone Turkey**: 1 evidence URL(s)
+- **Vodafone Turkey**: 1 kanıt URL'si
   - https://www.vodafone.com.tr/iletisim
-- **Yıldız Holding**: 1 evidence URL(s)
+- **Yıldız Holding**: 1 kanıt URL'si
   - https://www.yildizholding.com.tr/iletisim
-- **Zorlu Holding**: 1 evidence URL(s)
+- **Zorlu Holding**: 1 kanıt URL'si
   - https://www.zorlu.com.tr/tr/iletisim
-- **Ülker**: 1 evidence URL(s)
+- **Ülker**: 1 kanıt URL'si
   - https://www.ulker.com.tr/tr/iletisim
-- **İş Bankası**: 1 evidence URL(s)
+- **İş Bankası**: 1 kanıt URL'si
   - https://www.isbank.com.tr/iletisim
-- **Şişecam**: 1 evidence URL(s)
+- **Şişecam**: 1 kanıt URL'si
   - https://www.sisecam.com/tr/iletisim
 
 ## Örnek Kayıtlar
-| Ad Soyad | Şirket | Email | Tahmini | Status | Conf | Evidence |
+| Ad Soyad | Şirket | Email | Tahmini | Durum | Güven | Kanıt |
 |----------|--------|-------|---------|--------|------|----------|
 | Yasin Selim Yandik | Trendyol |  | yasin.yandik@trendyol.com | estimated_from_company_domain | 70 | https://www.trendyol.com/iletisim |
 | Nurullah Er | Turkcell |  | nurullah.er@turkcell.com.tr | estimated_from_company_domain | 70 | https://tedarik.turkcell.com.tr/Shared%2... |
@@ -158,8 +158,8 @@
 
 ## Metodoloji
 1. **found_public (95):** Lead'in email'i web'de açıkça bulundu
-2. **estimated_from_employee_pattern (85):** Aynı şirketten public çalışan email örneğinden pattern çıkarıldı
-3. **estimated_from_company_domain (70):** Şirket kariyer/iletişim sayfalarında domain kanıtı var; email pattern inferred
+2. **estimated_from_employee_pattern (85):** Aynı şirketten herkese açık çalışan email örneğinden pattern çıkarıldı
+3. **estimated_from_company_domain (70):** Şirket kariyer/iletişim sayfalarında domain kanıtı var; email pattern tahmin edildi
 4. **low_confidence_guess (50):** Hiç kanıt yok, sadece yaygın `first.last` pattern tahmini
 
-⚠️ estimated_email ASLA email kolonuna yazılmadı. Sadece public bulunan gerçek email'ler email kolonundadır.
+⚠️ estimated_email ASLA email kolonuna yazılmadı. Sadece herkese açık bulunan gerçek email'ler email kolonundadır.

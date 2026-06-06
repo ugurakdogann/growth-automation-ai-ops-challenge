@@ -13,13 +13,13 @@ Toplam: 5 kişi
 
 ### LinkedIn DM
 
-Ayten, iyi günler.
+Merhaba Ayten,
 
 Koç Holding bünyesindeki İK çalışmalarınızı takip ediyorum. Sınırlı İK bütçesiyle maksimum etki yaratma baskısı. Stratejik İK girişimlerine kaynak ayırmak zor. Grup şirketleri arası koordinasyon ek karmaşıklık getiriyor.
 
 Konuşarak Öğren olarak kurumlara özel, günde 15 dakikalık İngilizce konuşma eğitimi sunuyoruz. 500'den fazla kurumsal müşterimizle çalışanların İngilizce özgüvenini artırıyoruz.
 
-Uygun olursanız 15 dakikalık kısa bir demo planlayabiliriz.
+İlginizi çekerse size özel bir çözüm sunumu hazırlayabilirim.
 
 Saygılarımla.
 
@@ -105,13 +105,13 @@ Konuşarak Öğren Kurumsal Ekibi
 
 ### LinkedIn DM
 
-Eli̇f, iyi günler.
+Merhaba Eli̇f,
 
 Koç Holding bünyesindeki İK çalışmalarınızı takip ediyorum. Departmanlar arası yetenek transferi zor — silo yapısı İK'nın bütünsel strateji geliştirmesini engelliyor. Veriye dayalı İK kararları eksik. Grup şirketleri arası koordinasyon ek karmaşıklık getiriyor.
 
 Konuşarak Öğren olarak kurumlara özel, günde 15 dakikalık İngilizce konuşma eğitimi sunuyoruz. 500'den fazla kurumsal müşterimizle çalışanların İngilizce özgüvenini artırıyoruz.
 
-İlginizi çekerse size özel bir çözüm sunumu hazırlayabilirim.
+Uygun olursanız 15 dakikalık kısa bir demo planlayabiliriz.
 
 Saygılarımla.
 
@@ -157,7 +157,7 @@ Koç Holding bünyesindeki İK çalışmalarınızı takip ediyorum. Çalışan 
 
 Konuşarak Öğren olarak kurumlara özel, günde 15 dakikalık İngilizce konuşma eğitimi sunuyoruz. 500'den fazla kurumsal müşterimizle çalışanların İngilizce özgüvenini artırıyoruz.
 
-İlginizi çekerse size özel bir çözüm sunumu hazırlayabilirim.
+Uygun olursanız 15 dakikalık kısa bir demo planlayabiliriz.
 
 Saygılarımla.
 

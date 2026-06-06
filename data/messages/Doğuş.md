@@ -13,7 +13,7 @@ Toplam: 3 kişi
 
 ### LinkedIn DM
 
-Merve, iyi günler.
+Merhaba Merve,
 
 Doğuş bünyesindeki İK çalışmalarınızı takip ediyorum. Operasyonel İK süreçlerinde verimlilik düşük — manuel iş yükü fazla. İK teknolojileri (HRIS) güncel değil, çalışan self-servis deneyimi zayıf. Grup şirketleri arası koordinasyon ek karmaşıklık getiriyor.
 
@@ -59,7 +59,7 @@ Konuşarak Öğren Kurumsal Ekibi
 
 ### LinkedIn DM
 
-Merhaba Irem,
+Irem, iyi günler.
 
 Doğuş bünyesindeki İK çalışmalarınızı takip ediyorum. İK operasyonlarında dijitalleşme ve otomasyon ihtiyacı — manuel süreçler zaman kaybettiriyor ve hata riski yaratıyor. Grup şirketleri arası koordinasyon ek karmaşıklık getiriyor.
 
@@ -111,7 +111,7 @@ Doğuş bünyesindeki İK çalışmalarınızı takip ediyorum. Çoklu lokasyon 
 
 Konuşarak Öğren olarak kurumlara özel, günde 15 dakikalık İngilizce konuşma eğitimi sunuyoruz. 500'den fazla kurumsal müşterimizle çalışanların İngilizce özgüvenini artırıyoruz.
 
-Uygun olursanız 15 dakikalık kısa bir demo planlayabiliriz.
+İlginizi çekerse size özel bir çözüm sunumu hazırlayabilirim.
 
 Saygılarımla.
 

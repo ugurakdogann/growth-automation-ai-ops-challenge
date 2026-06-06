@@ -13,7 +13,7 @@ Toplam: 4 kişi
 
 ### LinkedIn DM
 
-Merhaba Banu,
+Banu, iyi günler.
 
 P&G Turkey bünyesindeki İK çalışmalarınızı takip ediyorum. Mavi yaka işe alımda yüksek turnover — mevsimsel dalgalanmaları yönetmek ve sürekli işe alım yapmak operasyonu yoruyor. Global raporlama ve çok kültürlü ekip yönetimi gerekiyor.
 
@@ -111,7 +111,7 @@ P&G Turkey bünyesindeki İK çalışmalarınızı takip ediyorum. Sınırlı İ
 
 Konuşarak Öğren olarak kurumlara özel, günde 15 dakikalık İngilizce konuşma eğitimi sunuyoruz. 500'den fazla kurumsal müşterimizle çalışanların İngilizce özgüvenini artırıyoruz.
 
-İlginizi çekerse size özel bir çözüm sunumu hazırlayabilirim.
+Uygun olursanız 15 dakikalık kısa bir demo planlayabiliriz.
 
 Saygılarımla.
 

@@ -19,7 +19,7 @@ Tofaş bünyesindeki İK çalışmalarınızı takip ediyorum. İK operasyonlar�
 
 Konuşarak Öğren olarak kurumlara özel, günde 15 dakikalık İngilizce konuşma eğitimi sunuyoruz. 500'den fazla kurumsal müşterimizle çalışanların İngilizce özgüvenini artırıyoruz.
 
-Uygun olursanız 15 dakikalık kısa bir demo planlayabiliriz.
+İlginizi çekerse size özel bir çözüm sunumu hazırlayabilirim.
 
 Saygılarımla.
 
@@ -65,7 +65,7 @@ Tofaş bünyesindeki İK çalışmalarınızı takip ediyorum. Departmanlar aras
 
 Konuşarak Öğren olarak kurumlara özel, günde 15 dakikalık İngilizce konuşma eğitimi sunuyoruz. 500'den fazla kurumsal müşterimizle çalışanların İngilizce özgüvenini artırıyoruz.
 
-İlginizi çekerse size özel bir çözüm sunumu hazırlayabilirim.
+Uygun olursanız 15 dakikalık kısa bir demo planlayabiliriz.
 
 Saygılarımla.
 
@@ -197,7 +197,7 @@ Konuşarak Öğren Kurumsal Ekibi
 
 ### LinkedIn DM
 
-Elif, iyi günler.
+Merhaba Elif,
 
 Tofaş bünyesindeki İK çalışmalarınızı takip ediyorum. Sınırlı İK bütçesiyle maksimum etki yaratma baskısı. Stratejik İK girişimlerine kaynak ayırmak zor. Elektrikli araç dönüşümü yeni yetkinlikler gerektiriyor.
 
@@ -243,7 +243,7 @@ Konuşarak Öğren Kurumsal Ekibi
 
 ### LinkedIn DM
 
-Merhaba Emel,
+Emel, iyi günler.
 
 Tofaş bünyesindeki İK çalışmalarınızı takip ediyorum. İK operasyonlarında dijitalleşme ve otomasyon ihtiyacı — manuel süreçler zaman kaybettiriyor ve hata riski yaratıyor. Elektrikli araç dönüşümü yeni yetkinlikler gerektiriyor.
 

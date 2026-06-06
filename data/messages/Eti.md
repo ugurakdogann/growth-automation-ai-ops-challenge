@@ -13,7 +13,7 @@ Toplam: 6 kişi
 
 ### LinkedIn DM
 
-Engin, iyi günler.
+Merhaba Engin,
 
 Eti bünyesindeki İK çalışmalarınızı takip ediyorum. Çoklu lokasyon / vardiya yapısı İK operasyonlarını karmaşıklaştırıyor. Dijitalleşme ve otomasyonla süreçleri sadeleştirmek şart.
 
@@ -105,7 +105,7 @@ Konuşarak Öğren Kurumsal Ekibi
 
 ### LinkedIn DM
 
-Merhaba Ümit,
+Ümit, iyi günler.
 
 Eti bünyesindeki İK çalışmalarınızı takip ediyorum. İK operasyonlarında dijitalleşme ve otomasyon ihtiyacı — manuel süreçler zaman kaybettiriyor ve hata riski yaratıyor.
 
@@ -203,7 +203,7 @@ Eti bünyesindeki İK çalışmalarınızı takip ediyorum. Departmanlar arası 
 
 Konuşarak Öğren olarak kurumlara özel, günde 15 dakikalık İngilizce konuşma eğitimi sunuyoruz. 500'den fazla kurumsal müşterimizle çalışanların İngilizce özgüvenini artırıyoruz.
 
-İlginizi çekerse size özel bir çözüm sunumu hazırlayabilirim.
+Uygun olursanız 15 dakikalık kısa bir demo planlayabiliriz.
 
 Saygılarımla.
 
@@ -249,7 +249,7 @@ Eti bünyesindeki İK çalışmalarınızı takip ediyorum. Grup şirketleri ara
 
 Konuşarak Öğren olarak kurumlara özel, günde 15 dakikalık İngilizce konuşma eğitimi sunuyoruz. 500'den fazla kurumsal müşterimizle çalışanların İngilizce özgüvenini artırıyoruz.
 
-Uygun olursanız 15 dakikalık kısa bir demo planlayabiliriz.
+İlginizi çekerse size özel bir çözüm sunumu hazırlayabilirim.
 
 Saygılarımla.
 

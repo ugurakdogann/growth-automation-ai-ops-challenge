@@ -1,59 +1,70 @@
-# Submission Summary
+# Teslim Özeti
 
-## Project
+## Proje
 
-Konuşarak Öğren Growth Automation & AI Ops Intern Challenge.
+Konuşarak Öğren Growth Automation & AI Ops Intern Challenge için hazırlanmış
+çalışan bir prototip.
 
-This repository contains a working prototype for collecting HR-focused leads,
-cleaning and enriching them, scoring lead quality, estimating email addresses
-with transparent evidence, and generating personalized outreach messages.
+Bu repo; HR odaklı lead toplama, lead temizleme, zenginleştirme, lead puanlama,
+kanıta dayalı email tahmini ve kişiselleştirilmiş outreach mesaj üretimi için
+uçtan uca çalışan bir iş akışı içerir.
 
-## What Was Built
+## Neler Yapıldı?
 
-- Input-driven lead pipeline for CSV/JSON data
-- SerpAPI/Google-based public lead collection
-- 181 HR-related leads from 42 Turkish companies
-- Lead cleaning and duplicate handling
-- Enrichment for sector, company size, HR role, pain point, English need and outreach angle
-- Lead scoring
-- Evidence-based email enrichment
-- LinkedIn DM and cold email generation
-- Output verification script
+- CSV/JSON veriyle çalışabilen girdi odaklı lead pipeline kuruldu.
+- SerpAPI/Google Search üzerinden herkese açık LinkedIn profil sonuçlarından lead toplama betiği yazıldı.
+- 42 Türkiye şirketinden 181 HR ilişkili lead hazırlandı.
+- Duplicate temizleme ve veri normalizasyonu yapıldı.
+- Şirket sektörü, şirket büyüklüğü, HR rolü, pain point, English need ve outreach angle üretildi.
+- Lead puanı hesaplama sistemi eklendi.
+- Email tahmini kanıt URL'si ve güven skoru bilgisiyle ayrı kolonda tutuldu.
+- Her lead için LinkedIn DM ve cold email üretildi.
+- Final çıktıları doğrulayan kontrol betiği eklendi.
 
-## Data Collection
+## Veri Toplama
 
-The main dataset was collected from Google-indexed LinkedIn profile results via
-SerpAPI. The collector searches queries like:
+Ana veri seti, Google'da indexlenmiş LinkedIn profil sonuçlarının SerpAPI ile
+aranmasıyla toplandı. Toplama betiği şu formatta sorgular üretir:
 
 ```text
 site:linkedin.com/in/ "İK" "Turkcell"
 ```
 
-The main pipeline uses Google-indexed public LinkedIn profile results through SerpAPI.
+Veri toplama betiği:
 
-## Final Output
+```bash
+python scripts/collect_leads.py --api-key YOUR_SERPAPI_KEY --max 4
+```
 
-- Final lead file: `data/leads_final.xlsx`
-- Company-level message files: `data/messages/`
-- Email evidence report: `data/email_enrichment_report.md`
+Güvenlik nedeniyle repo içinde gerçek SerpAPI / Google Search API key'i yoktur.
+Kullanıcı kendi key'ini `--api-key` parametresiyle verebilir veya `SERPAPI_KEY`
+ortam değişkeni olarak tanımlayabilir.
 
-Verified final numbers:
+## Final Çıktılar
 
-- Total leads: 181
-- Real public personal emails: 0
-- Estimated emails: 181
-- Evidence URLs for estimated emails: 181
-- Email leaks into real email column: 0
-- Rejected records: 0
+- Final lead dosyası: `data/leads_final.xlsx`
+- Firma bazlı mesaj dosyaları: `data/messages/`
+- Email kanıt raporu: `data/email_enrichment_report.md`
 
-## Email Methodology
+Doğrulanmış final sayılar:
 
-No public personal HR emails were found. Therefore the real `email` field is
-left empty.
+- Toplam lead: 181
+- Gerçek herkese açık kişisel email: 0
+- Tahmini email: 181
+- Tahmini email için kanıt URL'si: 181
+- Gerçek email kolonuna tahmini email sızması: 0
+- Reddedilen kayıt: 0
 
-For each company, a public official domain evidence URL was recorded. Estimated
-emails are generated using a `first.last@domain` pattern and stored only in the
-`estimated_email` field with:
+## Email Metodolojisi
+
+Herkese açık kişisel HR email'i bulunmadığı için gerçek `email` alanı boş
+bırakıldı.
+
+Her şirket için resmi/herkese açık domain kanıt URL'si kaydedildi. Tahmini
+emailler `first.last@domain` formatıyla üretildi ve yalnızca `estimated_email`
+alanında tutuldu.
+
+Her tahmini email için şu alanlar eklendi:
 
 - `email_status`
 - `email_confidence`
@@ -61,9 +72,11 @@ emails are generated using a `first.last@domain` pattern and stored only in the
 - `email_pattern`
 - `email_pattern_source_note`
 
-This keeps guessed email addresses clearly separated from verified public emails.
+Bu sayede tahmini email'ler doğrulanmış gerçek email gibi gösterilmedi.
 
-## How To Run
+## Nasıl Çalıştırılır?
+
+Hazır veriyle pipeline çalıştırmak için:
 
 ```bash
 pip install -r requirements.txt
@@ -73,7 +86,7 @@ python main.py
 python scripts/verify_outputs.py
 ```
 
-To collect fresh leads:
+Sıfırdan yeni lead toplamak için:
 
 ```bash
 python scripts/collect_leads.py --api-key YOUR_SERPAPI_KEY --max 4
@@ -83,22 +96,26 @@ python main.py
 python scripts/verify_outputs.py
 ```
 
-No real SerpAPI / Google Search API key is committed to the repository. A user
-can pass their own key with `--api-key` or set `SERPAPI_KEY` as an environment
-variable.
+Ortam değişkeni ile kullanım:
 
-## Challenge Fit
+```powershell
+$env:SERPAPI_KEY="YOUR_SERPAPI_KEY"
+python scripts/collect_leads.py --max 4
+```
 
-The challenge asks for a small working prototype, not a perfect production
-system. This submission provides a runnable end-to-end workflow:
+## Challenge ile Uyum
 
-1. Lead collection
-2. Cleaning
-3. Enrichment
-4. Scoring
-5. Email estimation with evidence
-6. Personalized outreach generation
-7. Output verification
+Challenge mükemmel bir production ürünü değil, küçük ama çalışan ve mantıklı bir
+sistem istiyordu. Bu repo şu akışı uçtan uca gösterir:
 
-Production improvements would include CRM integration, approved data providers,
-human review for `needs_review` leads, reply classification and inbox automation.
+1. Lead toplama
+2. Temizleme
+3. Zenginleştirme
+4. Lead puanlama
+5. Kanıta dayalı email tahmini
+6. Kişiselleştirilmiş outreach üretimi
+7. Final çıktı doğrulama
+
+Canlı ortama taşımak için sonraki adımlar CRM entegrasyonu, onaylı veri
+kaynakları, `needs_review` lead'leri için insan kontrolü, yanıt sınıflandırma
+ve gelen kutusu otomasyonu olabilir.

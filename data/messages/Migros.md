@@ -13,7 +13,7 @@ Toplam: 5 kişi
 
 ### LinkedIn DM
 
-Merhaba Begüm,
+Begüm, iyi günler.
 
 Migros bünyesindeki İK çalışmalarınızı takip ediyorum. Çalışan bağlılığı ve motivasyonu düşük eğilimde — özellikle genç yetenekleri elde tutmak giderek zorlaşıyor. Yüksek turnover ve mevsimsellik İK planlamasını zorlaştırıyor.
 
@@ -111,7 +111,7 @@ Migros bünyesindeki İK çalışmalarınızı takip ediyorum. Dijital dönüş�
 
 Konuşarak Öğren olarak kurumlara özel, günde 15 dakikalık İngilizce konuşma eğitimi sunuyoruz. 500'den fazla kurumsal müşterimizle çalışanların İngilizce özgüvenini artırıyoruz.
 
-İlginizi çekerse size özel bir çözüm sunumu hazırlayabilirim.
+Uygun olursanız 15 dakikalık kısa bir demo planlayabiliriz.
 
 Saygılarımla.
 
@@ -151,7 +151,7 @@ Konuşarak Öğren Kurumsal Ekibi
 
 ### LinkedIn DM
 
-Merhaba Olcay,
+Olcay, iyi günler.
 
 Migros bünyesindeki İK çalışmalarınızı takip ediyorum. Çalışan bağlılığı ve motivasyonu düşük eğilimde — özellikle genç yetenekleri elde tutmak giderek zorlaşıyor. Yüksek turnover ve mevsimsellik İK planlamasını zorlaştırıyor.
 
@@ -197,13 +197,13 @@ Konuşarak Öğren Kurumsal Ekibi
 
 ### LinkedIn DM
 
-Özkan, iyi günler.
+Merhaba Özkan,
 
 Migros bünyesindeki İK çalışmalarınızı takip ediyorum. Dijital dönüşüm yetkinliği olan çalışan eksikliği. Yönetim kuruluna İK metriklerini iş sonuçlarıyla ilişkilendirerek sunmak zor. Yüksek turnover ve mevsimsellik İK planlamasını zorlaştırıyor.
 
 Konuşarak Öğren olarak kurumlara özel, günde 15 dakikalık İngilizce konuşma eğitimi sunuyoruz. 500'den fazla kurumsal müşterimizle çalışanların İngilizce özgüvenini artırıyoruz.
 
-Uygun olursanız 15 dakikalık kısa bir demo planlayabiliriz.
+İlginizi çekerse size özel bir çözüm sunumu hazırlayabilirim.
 
 Saygılarımla.
 

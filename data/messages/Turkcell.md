@@ -13,7 +13,7 @@ Toplam: 7 kişi
 
 ### LinkedIn DM
 
-Merhaba Nurullah,
+Nurullah, iyi günler.
 
 Turkcell bünyesindeki İK çalışmalarınızı takip ediyorum. Departmanlar arası yetenek transferi zor — silo yapısı İK'nın bütünsel strateji geliştirmesini engelliyor. Veriye dayalı İK kararları eksik.
 
@@ -59,13 +59,13 @@ Konuşarak Öğren Kurumsal Ekibi
 
 ### LinkedIn DM
 
-Merhaba Ahmet,
+Ahmet, iyi günler.
 
 Turkcell bünyesindeki İK çalışmalarınızı takip ediyorum. Departmanlar arası yetenek transferi zor — silo yapısı İK'nın bütünsel strateji geliştirmesini engelliyor. Veriye dayalı İK kararları eksik.
 
 Konuşarak Öğren olarak kurumlara özel, günde 15 dakikalık İngilizce konuşma eğitimi sunuyoruz. 500'den fazla kurumsal müşterimizle çalışanların İngilizce özgüvenini artırıyoruz.
 
-Uygun olursanız 15 dakikalık kısa bir demo planlayabiliriz.
+İlginizi çekerse size özel bir çözüm sunumu hazırlayabilirim.
 
 Saygılarımla.
 
@@ -105,13 +105,13 @@ Konuşarak Öğren Kurumsal Ekibi
 
 ### LinkedIn DM
 
-Merhaba Pelin,
+Pelin, iyi günler.
 
 Turkcell bünyesindeki İK çalışmalarınızı takip ediyorum. Uzaktan çalışma modelinde eğitim etkileşimi düştü. Mikro-öğrenme ve kişiselleştirilmiş gelişim yol haritalarına ihtiyaç var.
 
 Konuşarak Öğren olarak kurumlara özel, günde 15 dakikalık İngilizce konuşma eğitimi sunuyoruz. 500'den fazla kurumsal müşterimizle çalışanların İngilizce özgüvenini artırıyoruz.
 
-Uygun olursanız 15 dakikalık kısa bir demo planlayabiliriz.
+İlginizi çekerse size özel bir çözüm sunumu hazırlayabilirim.
 
 Saygılarımla.
 
@@ -157,7 +157,7 @@ Turkcell bünyesindeki İK çalışmalarınızı takip ediyorum. Çalışan bağ
 
 Konuşarak Öğren olarak kurumlara özel, günde 15 dakikalık İngilizce konuşma eğitimi sunuyoruz. 500'den fazla kurumsal müşterimizle çalışanların İngilizce özgüvenini artırıyoruz.
 
-İlginizi çekerse size özel bir çözüm sunumu hazırlayabilirim.
+Uygun olursanız 15 dakikalık kısa bir demo planlayabiliriz.
 
 Saygılarımla.
 
@@ -203,7 +203,7 @@ Turkcell bünyesindeki İK çalışmalarınızı takip ediyorum. Uzaktan çalı�
 
 Konuşarak Öğren olarak kurumlara özel, günde 15 dakikalık İngilizce konuşma eğitimi sunuyoruz. 500'den fazla kurumsal müşterimizle çalışanların İngilizce özgüvenini artırıyoruz.
 
-İlginizi çekerse size özel bir çözüm sunumu hazırlayabilirim.
+Uygun olursanız 15 dakikalık kısa bir demo planlayabiliriz.
 
 Saygılarımla.
 
@@ -249,7 +249,7 @@ Turkcell bünyesindeki İK çalışmalarınızı takip ediyorum. Sınırlı İK 
 
 Konuşarak Öğren olarak kurumlara özel, günde 15 dakikalık İngilizce konuşma eğitimi sunuyoruz. 500'den fazla kurumsal müşterimizle çalışanların İngilizce özgüvenini artırıyoruz.
 
-Uygun olursanız 15 dakikalık kısa bir demo planlayabiliriz.
+İlginizi çekerse size özel bir çözüm sunumu hazırlayabilirim.
 
 Saygılarımla.
 
@@ -295,7 +295,7 @@ Turkcell bünyesindeki İK çalışmalarınızı takip ediyorum. Bordro ve özl�
 
 Konuşarak Öğren olarak kurumlara özel, günde 15 dakikalık İngilizce konuşma eğitimi sunuyoruz. 500'den fazla kurumsal müşterimizle çalışanların İngilizce özgüvenini artırıyoruz.
 
-Uygun olursanız 15 dakikalık kısa bir demo planlayabiliriz.
+İlginizi çekerse size özel bir çözüm sunumu hazırlayabilirim.
 
 Saygılarımla.
 

@@ -13,13 +13,13 @@ Toplam: 5 kişi
 
 ### LinkedIn DM
 
-Şengül, iyi günler.
+Merhaba Şengül,
 
 İş Bankası bünyesindeki İK çalışmalarınızı takip ediyorum. Çalışan bağlılığı ve motivasyonu düşük eğilimde — özellikle genç yetenekleri elde tutmak giderek zorlaşıyor. Regülasyon ve dijitalleşme arasında denge kurmak kritik.
 
 Konuşarak Öğren olarak kurumlara özel, günde 15 dakikalık İngilizce konuşma eğitimi sunuyoruz. 500'den fazla kurumsal müşterimizle çalışanların İngilizce özgüvenini artırıyoruz.
 
-İlginizi çekerse size özel bir çözüm sunumu hazırlayabilirim.
+Uygun olursanız 15 dakikalık kısa bir demo planlayabiliriz.
 
 Saygılarımla.
 
@@ -59,13 +59,13 @@ Konuşarak Öğren Kurumsal Ekibi
 
 ### LinkedIn DM
 
-Hakan, iyi günler.
+Merhaba Hakan,
 
 İş Bankası bünyesindeki İK çalışmalarınızı takip ediyorum. Çalışan bağlılığı ve motivasyonu düşük eğilimde — özellikle genç yetenekleri elde tutmak giderek zorlaşıyor. Regülasyon ve dijitalleşme arasında denge kurmak kritik.
 
 Konuşarak Öğren olarak kurumlara özel, günde 15 dakikalık İngilizce konuşma eğitimi sunuyoruz. 500'den fazla kurumsal müşterimizle çalışanların İngilizce özgüvenini artırıyoruz.
 
-Uygun olursanız 15 dakikalık kısa bir demo planlayabiliriz.
+İlginizi çekerse size özel bir çözüm sunumu hazırlayabilirim.
 
 Saygılarımla.
 
@@ -197,7 +197,7 @@ Konuşarak Öğren Kurumsal Ekibi
 
 ### LinkedIn DM
 
-Merhaba Seda,
+Seda, iyi günler.
 
 İş Bankası bünyesindeki İK çalışmalarınızı takip ediyorum. Uzaktan çalışma modelinde eğitim etkileşimi düştü. Mikro-öğrenme ve kişiselleştirilmiş gelişim yol haritalarına ihtiyaç var. Regülasyon ve dijitalleşme arasında denge kurmak kritik.
 

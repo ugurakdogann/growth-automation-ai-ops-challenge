@@ -13,7 +13,7 @@ Toplam: 3 kişi
 
 ### LinkedIn DM
 
-Merhaba Eda,
+Eda, iyi günler.
 
 Ford Otosan bünyesindeki İK çalışmalarınızı takip ediyorum. Operasyonel İK süreçlerinde verimlilik düşük — manuel iş yükü fazla. İK teknolojileri (HRIS) güncel değil, çalışan self-servis deneyimi zayıf. Elektrikli araç dönüşümü yeni yetkinlikler gerektiriyor.
 
@@ -65,7 +65,7 @@ Ford Otosan bünyesindeki İK çalışmalarınızı takip ediyorum. Nitelikli ad
 
 Konuşarak Öğren olarak kurumlara özel, günde 15 dakikalık İngilizce konuşma eğitimi sunuyoruz. 500'den fazla kurumsal müşterimizle çalışanların İngilizce özgüvenini artırıyoruz.
 
-Uygun olursanız 15 dakikalık kısa bir demo planlayabiliriz.
+İlginizi çekerse size özel bir çözüm sunumu hazırlayabilirim.
 
 Saygılarımla.
 

@@ -344,7 +344,7 @@ class EmailEnricher:
             f"| estimated_from_company_domain | {company_dom} | %{100*company_dom/total:.1f} |",
             f"| low_confidence_guess | {low_conf} | %{100*low_conf/total:.1f} |",
             "",
-            "## Confidence Dağılımı",
+            "## Güven Skoru Dağılımı",
         ]
         
         conf_counts = Counter()
@@ -355,7 +355,7 @@ class EmailEnricher:
             lines.append(f"- **{conf}:** {conf_counts[conf]} lead")
         lines.append("")
         
-        # Evidence URL kontrolü
+        # Kanıt URL kontrolü
         high_conf_no_evidence = []
         for l in leads:
             try:
@@ -364,7 +364,7 @@ class EmailEnricher:
             except: pass
         
         if high_conf_no_evidence:
-            lines.append("## ⚠️ UYARI: Yüksek confidence ama evidence_url eksik!")
+            lines.append("## ⚠️ UYARI: Yüksek güven skoru var ama evidence_url eksik!")
             for l in high_conf_no_evidence[:10]:
                 lines.append(f"- {l['full_name']} ({l['company']}) — conf:{l['email_confidence']} status:{l['email_status']}")
             lines.append("")
@@ -383,22 +383,22 @@ class EmailEnricher:
             lines.append(f"- **{company}**: {found_c}F {emp_c}E {dom_c}D {low_c}L")
         lines.append("")
         
-        # Evidence summary
-        lines.append("## Evidence Summary")
+        # Kanıt özeti
+        lines.append("## Kanıt Özeti")
         evidence_by_company = defaultdict(list)
         for l in leads:
             if l.get("email_evidence_url", "").strip():
                 evidence_by_company[l["company"]].append(l["email_evidence_url"])
         for company in sorted(evidence_by_company):
             urls = list(set(evidence_by_company[company]))
-            lines.append(f"- **{company}**: {len(urls)} evidence URL(s)")
+            lines.append(f"- **{company}**: {len(urls)} kanıt URL'si")
             for u in urls[:2]:
                 lines.append(f"  - {u}")
         lines.append("")
         
         # Örnek kayıtlar
         lines.append("## Örnek Kayıtlar")
-        lines.append("| Ad Soyad | Şirket | Email | Tahmini | Status | Conf | Evidence |")
+        lines.append("| Ad Soyad | Şirket | Email | Tahmini | Durum | Güven | Kanıt |")
         lines.append("|----------|--------|-------|---------|--------|------|----------|")
         for l in leads[:10]:
             ev = l.get("email_evidence_url", "")[:40] + "..." if len(l.get("email_evidence_url", "")) > 40 else l.get("email_evidence_url", "")
@@ -410,11 +410,11 @@ class EmailEnricher:
         # Metodoloji
         lines.append("## Metodoloji")
         lines.append("1. **found_public (95):** Lead'in email'i web'de açıkça bulundu")
-        lines.append("2. **estimated_from_employee_pattern (85):** Aynı şirketten public çalışan email örneğinden pattern çıkarıldı")
-        lines.append("3. **estimated_from_company_domain (70):** Şirket kariyer/iletişim sayfalarında domain kanıtı var; email pattern inferred")
+        lines.append("2. **estimated_from_employee_pattern (85):** Aynı şirketten herkese açık çalışan email örneğinden pattern çıkarıldı")
+        lines.append("3. **estimated_from_company_domain (70):** Şirket kariyer/iletişim sayfalarında domain kanıtı var; email pattern tahmin edildi")
         lines.append("4. **low_confidence_guess (50):** Hiç kanıt yok, sadece yaygın `first.last` pattern tahmini")
         lines.append("")
-        lines.append("⚠️ estimated_email ASLA email kolonuna yazılmadı. Sadece public bulunan gerçek email'ler email kolonundadır.")
+        lines.append("⚠️ estimated_email ASLA email kolonuna yazılmadı. Sadece herkese açık bulunan gerçek email'ler email kolonundadır.")
         
         return "\n".join(lines)
 
