@@ -100,6 +100,135 @@ Ana dosyalar:
 - `scripts/email_evidence.py`: şirket domain kanıt veritabanı
 - `scripts/verify_outputs.py`: çıktı doğrulama
 
+## Script Rehberi
+
+### `main.py`
+
+Pipeline'ın ana giriş noktasıdır. Önce input dosyasını bulur, sonra sırasıyla
+veri alma, temizleme, zenginleştirme ve mesaj üretimi adımlarını çalıştırır.
+
+Input önceliği:
+
+1. `--input` ile verilen dosya
+2. `data/input_leads.csv`
+3. `data/input_leads.json`
+
+Ürettiği temel çıktılar:
+
+- `data/leads_clean.csv`
+- `data/leads_enriched.csv`
+- `data/leads_final.xlsx`
+- `data/messages/`
+
+Eğer `data/leads_email_enriched.csv` varsa, email enrichment sonucu final Excel
+dosyasına ayrıca merge edilir. Bu yüzden email enrichment çalıştırıldıktan sonra
+`main.py` ikinci kez çalıştırılır.
+
+### `scripts/collect_leads.py`
+
+Yeni lead toplamak için kullanılan script'tir. SerpAPI üzerinden Google Search
+sonuçlarını çağırır ve Google'da indexlenmiş herkese açık LinkedIn profil
+sonuçlarını toplar.
+
+Kullandığı sorgu mantığı:
+
+```text
+site:linkedin.com/in/ "İK" "Şirket Adı"
+```
+
+Script her sonuçtan isim, unvan, şirket, LinkedIn URL ve kaynak bilgisini
+çıkarmaya çalışır. Sonuçlar pipeline'ın okuyabileceği input formatına yazılır.
+Repo içinde gerçek API key yoktur; kullanıcı kendi SerpAPI key'ini `--api-key`
+parametresiyle veya `SERPAPI_KEY` ortam değişkeniyle verir.
+
+### `pipeline/ingestion.py`
+
+CSV veya JSON lead dosyasını okur. Farklı kolon adlarını standart alanlara
+normalize eder. Örneğin `name`, `full_name`, `company_name`, `linkedin` gibi
+alanları pipeline'ın beklediği ortak şemaya çevirir.
+
+Standart alanlar:
+
+- `full_name`
+- `title`
+- `company`
+- `linkedin_url`
+- `email`
+- `source`
+
+Eksik veya tanınmayan kolonlar pipeline'ı kırmadan boş değerle devam eder.
+
+### `pipeline/cleaner.py`
+
+Ham lead listesini temizler. Aynı LinkedIn URL'ye veya aynı kişi/şirket
+kombinasyonuna sahip tekrarları azaltır. Boşluk, eksik alan ve format
+tutarsızlıklarını sadeleştirir.
+
+Amaç final dosyada aynı kişinin tekrar tekrar görünmesini engellemek ve
+enrichment adımına daha temiz veri göndermektir.
+
+### `pipeline/enricher.py`
+
+Lead'lere growth/outreach için gerekli bağlamı ekler. Bu adım canlı web
+araştırması yapmaz; şirket veritabanı, unvan anahtar kelimeleri ve kural tabanlı
+mantık kullanır.
+
+Eklediği başlıca alanlar:
+
+- `sector`: şirketin sektörü
+- `company_size`: şirket büyüklüğü
+- `company_focus`: şirket odağı
+- `hr_role`: unvana göre HR rol kategorisi
+- `pain_point`: role ve sektöre göre olası problem alanı
+- `english_need`: İngilizce eğitim ihtiyacı skoru
+- `outreach_angle`: mesajda kullanılacak yaklaşım
+- `needs_review`: şüpheli lead'lerde insan kontrolü bayrağı
+- `lead_score`: lead öncelik puanı
+
+Türkçe karakter normalizasyonu içerir. Bu sayede `İK`, `İşe Alım`, `İnsan
+Kaynakları`, `Yetenek Kazanımı` gibi başlıklar daha doğru sınıflandırılır.
+
+### `scripts/email_enrich.py`
+
+Email tahmini için kullanılır. `data/leads_enriched.csv` dosyasını okur,
+şirket-domain kanıtlarına bakar ve tahmini email alanlarını üretir.
+
+Önemli prensip: Tahmini email hiçbir zaman gerçek `email` alanına yazılmaz.
+Gerçek kişisel email bulunmadıysa `email` boş kalır; tahmin ayrı alanlarda
+tutulur.
+
+Ürettiği alanlar:
+
+- `estimated_email`
+- `email_status`
+- `email_confidence`
+- `email_evidence_url`
+- `email_pattern`
+- `email_pattern_source_note`
+
+### `scripts/email_evidence.py`
+
+Email enrichment için kullanılan şirket-domain kanıt veritabanıdır. Her şirket
+için resmi domain, kanıt URL'si ve kaynak notu tutulur. Böylece tahmini email'in
+hangi kanıta dayanarak üretildiği final dosyada şeffaf şekilde görülebilir.
+
+### `pipeline/generator.py`
+
+Zenginleştirilmiş lead verisini kullanarak outreach çıktısı üretir. Her lead
+için kısa LinkedIn DM ve cold email metni oluşturur. Mesajlarda şirket, rol,
+pain point, English need ve outreach angle alanları kullanılır.
+
+Final Excel dosyasını ve firma bazlı Markdown mesaj dosyalarını üretir.
+
+### `scripts/verify_outputs.py`
+
+Teslimden önce final dosyaları kontrol etmek için kullanılır. Excel dosyasının
+varlığını, satır sayısını, email alanlarını, tahmini email'in gerçek email
+kolonuna sızıp sızmadığını ve email kanıt URL'lerinin doluluğunu kontrol eder.
+
+Bu script'in amacı reviewer'a sadece çıktı değil, çıktının temel kalite
+kontrollerinden geçtiğini de göstermektir.
+
 ## Lead Zenginleştirme
 
 Her lead için eklenen alanlar:
