@@ -2,6 +2,9 @@ __pycache__/
 *.py[cod]
 .pytest_cache/
 profiles/
+.env
+.env.*
+!.env.example
 
 # Local/debug collection artifacts
 data/*.html

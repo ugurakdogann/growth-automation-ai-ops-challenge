@@ -76,12 +76,16 @@ python scripts/verify_outputs.py
 To collect fresh leads:
 
 ```bash
-python scripts/collect_leads.py --api-key SERPAPI_KEY --max 4
+python scripts/collect_leads.py --api-key YOUR_SERPAPI_KEY --max 4
 python main.py
 python scripts/email_enrich.py
 python main.py
 python scripts/verify_outputs.py
 ```
+
+No real SerpAPI / Google Search API key is committed to the repository. A user
+can pass their own key with `--api-key` or set `SERPAPI_KEY` as an environment
+variable.
 
 ## Challenge Fit
 

@@ -31,12 +31,23 @@ python scripts/verify_outputs.py
 Yeni veri toplamak için:
 
 ```bash
-python scripts/collect_leads.py --api-key SERPAPI_KEY --max 4
+python scripts/collect_leads.py --api-key YOUR_SERPAPI_KEY --max 4
 python main.py
 python scripts/email_enrich.py
 python main.py
 python scripts/verify_outputs.py
 ```
+
+Alternatif olarak API key environment variable ile verilebilir:
+
+```powershell
+$env:SERPAPI_KEY="YOUR_SERPAPI_KEY"
+python scripts/collect_leads.py --max 4
+```
+
+Güvenlik nedeniyle repo içinde gerçek SerpAPI / Google Search API key'i
+bırakılmamıştır. Mevcut `data/input_leads.json` dosyası hazır örnek veri olarak
+gelir; sıfırdan veri toplamak isteyen kişi kendi API key'ini kullanmalıdır.
 
 Not: `scripts/email_enrich.py`, `leads_enriched.csv` üzerinden çalıştığı için
 önce `python main.py` ile lead enrichment çıktısı üretilir. Sonra email alanları
@@ -44,8 +55,8 @@ merge edilsin diye `python main.py` tekrar çalıştırılır.
 
 ## Veri Toplama Metodu
 
-Bu prototipte lead listesi Google/SerpAPI üzerinde indexlenmiş LinkedIn profil
-sonuçlarından üretilmiştir:
+Bu prototipte lead listesi Google Search sonuçlarını kullanan SerpAPI üzerinden
+indexlenmiş LinkedIn profil sonuçlarından üretilmiştir:
 
 ```text
 site:linkedin.com/in/ "İK" "Şirket Adı"

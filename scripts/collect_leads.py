@@ -3,11 +3,17 @@ Lead Collector — SerpAPI ile HR Profili Toplama
 ================================================
 
 Büyük Türk şirketlerindeki İK profesyonellerini LinkedIn'den toplar.
-SerpAPI key'i ile çalışır.
+Google Search sonuçlarını SerpAPI üzerinden çeker. API key güvenlik nedeniyle
+repo'ya eklenmez; --api-key ile verilebilir veya SERPAPI_KEY environment
+variable olarak ayarlanabilir.
 
 Kullanım:
     # API key ile çalıştır
-    python scripts/collect_leads.py --api-key YOUR_KEY
+    python scripts/collect_leads.py --api-key YOUR_SERPAPI_KEY
+
+    # veya environment variable ile
+    set SERPAPI_KEY=YOUR_SERPAPI_KEY
+    python scripts/collect_leads.py
     
     # Farklı şirket listesi ile
     python scripts/collect_leads.py --api-key KEY --companies companies.txt
@@ -20,6 +26,7 @@ Kullanım:
 
 import argparse
 import json
+import os
 import re
 import sys
 import time
@@ -187,8 +194,11 @@ def main():
     parser = argparse.ArgumentParser(
         description="SerpAPI ile LinkedIn HR profillerini topla"
     )
-    parser.add_argument("--api-key", "-k", required=True, 
-                        help="SerpAPI key (https://serpapi.com)")
+    parser.add_argument(
+        "--api-key", "-k",
+        default=os.getenv("SERPAPI_KEY"),
+        help="SerpAPI key. Alternatif: SERPAPI_KEY environment variable.",
+    )
     parser.add_argument("--companies", "-c", 
                         help="Şirket listesi dosyası (her satır bir şirket)")
     parser.add_argument("--output", "-o", default="data/input_leads.json",
@@ -198,6 +208,13 @@ def main():
     parser.add_argument("--delay", "-d", type=float, default=0.3,
                         help="Sorgular arası bekleme saniyesi")
     args = parser.parse_args()
+
+    if not args.api_key:
+        parser.error(
+            "SerpAPI key gerekli. --api-key YOUR_KEY kullanın veya "
+            "SERPAPI_KEY environment variable ayarlayın. Güvenlik nedeniyle "
+            "repo içinde API key bırakılmamıştır."
+        )
     
     # Şirket listesini yükle
     if args.companies:
