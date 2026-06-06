@@ -72,9 +72,9 @@ Toplanan temel alanlar:
 - `linkedin_url`
 - `source`
 
-Bu yaklaşım challenge için küçük ama çalışan bir prototip sunar. Canlı ortamda
+Bu yaklaşım küçük bir prototip için yeterli bir başlangıç sağlar. Canlı ortamda
 Apollo, CRM export, izinli Sales Navigator iş akışı veya şirket web sitelerinden
-manuel/yarı otomatik lead toplama tercih edilebilir.
+manuel/yarı otomatik lead toplama ile genişletilebilir.
 
 ## İş Akışı
 
@@ -232,8 +232,8 @@ varlığını, satır sayısını, email alanlarını, tahmini email'in gerçek 
 kolonuna sızıp sızmadığını ve teknik email kolonlarının final Excel'den
 kaldırıldığını kontrol eder.
 
-Bu script'in amacı reviewer'a sadece çıktı değil, çıktının temel kalite
-kontrollerinden geçtiğini de göstermektir.
+Bu script, final dosyayı göndermeden önce temel kalite kontrollerini hızlıca
+görmek için eklendi.
 
 ## Lead Zenginleştirme
 

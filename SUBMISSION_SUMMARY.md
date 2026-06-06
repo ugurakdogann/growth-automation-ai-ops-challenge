@@ -51,7 +51,6 @@ Doğrulanmış final sayılar:
 - Toplam lead: 181
 - Gerçek herkese açık kişisel email: 0
 - Tahmini email: 181
-- Tahmini email: 181
 - Final Excel'de teknik email kanıt/pattern kolonları kaldırıldı
 - Gerçek email kolonuna tahmini email sızması: 0
 - Reddedilen kayıt: 0
@@ -106,20 +105,3 @@ Ortam değişkeni ile kullanım:
 $env:SERPAPI_KEY="YOUR_SERPAPI_KEY"
 python scripts/collect_leads.py --max 4
 ```
-
-## Challenge ile Uyum
-
-Challenge mükemmel bir production ürünü değil, küçük ama çalışan ve mantıklı bir
-sistem istiyordu. Bu repo şu akışı uçtan uca gösterir:
-
-1. Lead toplama
-2. Temizleme
-3. Zenginleştirme
-4. Lead puanlama
-5. Kanıta dayalı email tahmini
-6. Kişiselleştirilmiş outreach üretimi
-7. Final çıktı doğrulama
-
-Canlı ortama taşımak için sonraki adımlar CRM entegrasyonu, onaylı veri
-kaynakları, `needs_review` lead'leri için insan kontrolü, yanıt sınıflandırma
-ve gelen kutusu otomasyonu olabilir.
