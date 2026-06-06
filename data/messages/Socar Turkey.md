@@ -19,7 +19,7 @@ Socar Turkey bünyesindeki İK çalışmalarınızı takip ediyorum. Çalışan 
 
 Konuşarak Öğren olarak kurumlara özel, günde 15 dakikalık İngilizce konuşma eğitimi sunuyoruz. 500'den fazla kurumsal müşterimizle çalışanların İngilizce özgüvenini artırıyoruz.
 
-İlginizi çekerse size özel bir çözüm sunumu hazırlayabilirim.
+Uygun olursanız 15 dakikalık kısa bir demo planlayabiliriz.
 
 Saygılarımla.
 
@@ -105,7 +105,7 @@ Konuşarak Öğren Kurumsal Ekibi
 
 ### LinkedIn DM
 
-Merhaba Adnan,
+Adnan, iyi günler.
 
 Socar Turkey bünyesindeki İK çalışmalarınızı takip ediyorum. Çoklu lokasyon / vardiya yapısı İK operasyonlarını karmaşıklaştırıyor. Dijitalleşme ve otomasyonla süreçleri sadeleştirmek şart. Yeşil dönüşüm ve sürdürülebilirlik odaklı yeni roller doğuyor.
 

@@ -13,13 +13,13 @@ Toplam: 3 kişi
 
 ### LinkedIn DM
 
-Merhaba Neslişah,
+Neslişah, iyi günler.
 
 Papara bünyesindeki İK çalışmalarınızı takip ediyorum. Değişim yönetimi direnci — dijital dönüşüm projelerinde çalışan adaptasyonu yavaş. Orta kademe yöneticilerin İK okuryazarlığı düşük. Hızlı büyüme yetenek açığını derinleştiriyor.
 
 Konuşarak Öğren olarak kurumlara özel, günde 15 dakikalık İngilizce konuşma eğitimi sunuyoruz. 500'den fazla kurumsal müşterimizle çalışanların İngilizce özgüvenini artırıyoruz.
 
-İlginizi çekerse size özel bir çözüm sunumu hazırlayabilirim.
+Uygun olursanız 15 dakikalık kısa bir demo planlayabiliriz.
 
 Saygılarımla.
 

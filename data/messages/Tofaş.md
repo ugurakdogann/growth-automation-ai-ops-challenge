@@ -13,7 +13,7 @@ Toplam: 6 kişi
 
 ### LinkedIn DM
 
-Necdet, iyi günler.
+Merhaba Necdet,
 
 Tofaş bünyesindeki İK çalışmalarınızı takip ediyorum. İK operasyonlarında dijitalleşme ve otomasyon ihtiyacı — manuel süreçler zaman kaybettiriyor ve hata riski yaratıyor. Elektrikli araç dönüşümü yeni yetkinlikler gerektiriyor.
 
@@ -151,7 +151,7 @@ Konuşarak Öğren Kurumsal Ekibi
 
 ### LinkedIn DM
 
-Merhaba Mine,
+Mine, iyi günler.
 
 Tofaş bünyesindeki İK çalışmalarınızı takip ediyorum. İş birimleri İK'yı stratejik ortak değil, operasyonel destek olarak görüyor. Yeteneği elde tutma ve bağlılık skorları düşüş eğiliminde. Elektrikli araç dönüşümü yeni yetkinlikler gerektiriyor.
 
@@ -249,7 +249,7 @@ Tofaş bünyesindeki İK çalışmalarınızı takip ediyorum. İK operasyonlar�
 
 Konuşarak Öğren olarak kurumlara özel, günde 15 dakikalık İngilizce konuşma eğitimi sunuyoruz. 500'den fazla kurumsal müşterimizle çalışanların İngilizce özgüvenini artırıyoruz.
 
-İlginizi çekerse size özel bir çözüm sunumu hazırlayabilirim.
+Uygun olursanız 15 dakikalık kısa bir demo planlayabiliriz.
 
 Saygılarımla.
 

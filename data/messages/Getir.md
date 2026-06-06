@@ -13,7 +13,7 @@ Toplam: 4 kişi
 
 ### LinkedIn DM
 
-Merhaba Neslihan,
+Neslihan, iyi günler.
 
 Getir bünyesindeki İK çalışmalarınızı takip ediyorum. Çalışan bağlılığı ve motivasyonu düşük eğilimde — özellikle genç yetenekleri elde tutmak giderek zorlaşıyor. Özellikle teknik ekiplerde İngilizce iletişim zorunlu hale geliyor.
 
@@ -59,7 +59,7 @@ Konuşarak Öğren Kurumsal Ekibi
 
 ### LinkedIn DM
 
-Merhaba Eda,
+Eda, iyi günler.
 
 Getir bünyesindeki İK çalışmalarınızı takip ediyorum. Hızlı değişen teknoloji karşısında iş gücünün yetkinlikleri hızla eskimekte. Reskilling / upskilling programları kurumsal stratejiyle hizalanmış değil. Özellikle teknik ekiplerde İngilizce iletişim zorunlu hale geliyor.
 

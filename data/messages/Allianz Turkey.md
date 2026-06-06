@@ -13,13 +13,13 @@ Toplam: 3 kişi
 
 ### LinkedIn DM
 
-Merhaba Özlem,
+Özlem, iyi günler.
 
 Allianz Turkey bünyesindeki İK çalışmalarınızı takip ediyorum. Hızlı değişen teknoloji karşısında iş gücünün yetkinlikleri hızla eskimekte. Reskilling / upskilling programları kurumsal stratejiyle hizalanmış değil.
 
 Konuşarak Öğren olarak kurumlara özel, günde 15 dakikalık İngilizce konuşma eğitimi sunuyoruz. 500'den fazla kurumsal müşterimizle çalışanların İngilizce özgüvenini artırıyoruz.
 
-Uygun olursanız 15 dakikalık kısa bir demo planlayabiliriz.
+İlginizi çekerse size özel bir çözüm sunumu hazırlayabilirim.
 
 Saygılarımla.
 
@@ -65,7 +65,7 @@ Allianz Turkey bünyesindeki İK çalışmalarınızı takip ediyorum. Sınırl�
 
 Konuşarak Öğren olarak kurumlara özel, günde 15 dakikalık İngilizce konuşma eğitimi sunuyoruz. 500'den fazla kurumsal müşterimizle çalışanların İngilizce özgüvenini artırıyoruz.
 
-İlginizi çekerse size özel bir çözüm sunumu hazırlayabilirim.
+Uygun olursanız 15 dakikalık kısa bir demo planlayabiliriz.
 
 Saygılarımla.
 
@@ -105,7 +105,7 @@ Konuşarak Öğren Kurumsal Ekibi
 
 ### LinkedIn DM
 
-Merhaba Esra,
+Esra, iyi günler.
 
 Allianz Turkey bünyesindeki İK çalışmalarınızı takip ediyorum. Mavi yaka işe alımda yüksek turnover — mevsimsel dalgalanmaları yönetmek ve sürekli işe alım yapmak operasyonu yoruyor.
 

@@ -13,7 +13,7 @@ Toplam: 4 kişi
 
 ### LinkedIn DM
 
-Merhaba Murat,
+Murat, iyi günler.
 
 Eczacıbaşı bünyesindeki İK çalışmalarınızı takip ediyorum. Sınırlı İK bütçesiyle maksimum etki yaratma baskısı. Stratejik İK girişimlerine kaynak ayırmak zor. Grup şirketleri arası koordinasyon ek karmaşıklık getiriyor.
 
@@ -59,13 +59,13 @@ Konuşarak Öğren Kurumsal Ekibi
 
 ### LinkedIn DM
 
-Öznur, iyi günler.
+Merhaba Öznur,
 
 Eczacıbaşı bünyesindeki İK çalışmalarınızı takip ediyorum. Sınırlı İK bütçesiyle maksimum etki yaratma baskısı. Stratejik İK girişimlerine kaynak ayırmak zor. Grup şirketleri arası koordinasyon ek karmaşıklık getiriyor.
 
 Konuşarak Öğren olarak kurumlara özel, günde 15 dakikalık İngilizce konuşma eğitimi sunuyoruz. 500'den fazla kurumsal müşterimizle çalışanların İngilizce özgüvenini artırıyoruz.
 
-İlginizi çekerse size özel bir çözüm sunumu hazırlayabilirim.
+Uygun olursanız 15 dakikalık kısa bir demo planlayabiliriz.
 
 Saygılarımla.
 
@@ -105,7 +105,7 @@ Konuşarak Öğren Kurumsal Ekibi
 
 ### LinkedIn DM
 
-Merhaba Serdar,
+Serdar, iyi günler.
 
 Eczacıbaşı bünyesindeki İK çalışmalarınızı takip ediyorum. Yetenek savaşı — kaliteli yazılımcı ve ürüncü bulmakta zorlanıyor. İngilizce bilen teknik ekip kurmak kritik rekabet avantajı. Grup şirketleri arası koordinasyon ek karmaşıklık getiriyor.
 
@@ -151,7 +151,7 @@ Konuşarak Öğren Kurumsal Ekibi
 
 ### LinkedIn DM
 
-Merhaba Yıldırım,
+Yıldırım, iyi günler.
 
 Eczacıbaşı bünyesindeki İK çalışmalarınızı takip ediyorum. Değişim yönetimi direnci — dijital dönüşüm projelerinde çalışan adaptasyonu yavaş. Orta kademe yöneticilerin İK okuryazarlığı düşük. Grup şirketleri arası koordinasyon ek karmaşıklık getiriyor.
 

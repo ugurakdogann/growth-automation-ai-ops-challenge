@@ -59,7 +59,7 @@ Konuşarak Öğren Kurumsal Ekibi
 
 ### LinkedIn DM
 
-Merhaba İsmail,
+İsmail, iyi günler.
 
 Ford Otosan bünyesindeki İK çalışmalarınızı takip ediyorum. Nitelikli aday havuzu daralıyor — teknik roller için başvuru sayısı düşüşte. İşe alım sürecini hızlandırıp aday deneyimini iyileştirmek kritik. Elektrikli araç dönüşümü yeni yetkinlikler gerektiriyor.
 
@@ -105,7 +105,7 @@ Konuşarak Öğren Kurumsal Ekibi
 
 ### LinkedIn DM
 
-Merhaba Ecem,
+Ecem, iyi günler.
 
 Ford Otosan bünyesindeki İK çalışmalarınızı takip ediyorum. Çalışan bağlılığı ve motivasyonu düşük eğilimde — özellikle genç yetenekleri elde tutmak giderek zorlaşıyor. Elektrikli araç dönüşümü yeni yetkinlikler gerektiriyor.
 

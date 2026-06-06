@@ -19,7 +19,7 @@ Turkcell bünyesindeki İK çalışmalarınızı takip ediyorum. Departmanlar ar
 
 Konuşarak Öğren olarak kurumlara özel, günde 15 dakikalık İngilizce konuşma eğitimi sunuyoruz. 500'den fazla kurumsal müşterimizle çalışanların İngilizce özgüvenini artırıyoruz.
 
-İlginizi çekerse size özel bir çözüm sunumu hazırlayabilirim.
+Uygun olursanız 15 dakikalık kısa bir demo planlayabiliriz.
 
 Saygılarımla.
 
@@ -105,7 +105,7 @@ Konuşarak Öğren Kurumsal Ekibi
 
 ### LinkedIn DM
 
-Pelin, iyi günler.
+Merhaba Pelin,
 
 Turkcell bünyesindeki İK çalışmalarınızı takip ediyorum. Uzaktan çalışma modelinde eğitim etkileşimi düştü. Mikro-öğrenme ve kişiselleştirilmiş gelişim yol haritalarına ihtiyaç var.
 
@@ -197,13 +197,13 @@ Konuşarak Öğren Kurumsal Ekibi
 
 ### LinkedIn DM
 
-Nazan, iyi günler.
+Merhaba Nazan,
 
 Turkcell bünyesindeki İK çalışmalarınızı takip ediyorum. Uzaktan çalışma modelinde eğitim etkileşimi düştü. Mikro-öğrenme ve kişiselleştirilmiş gelişim yol haritalarına ihtiyaç var.
 
 Konuşarak Öğren olarak kurumlara özel, günde 15 dakikalık İngilizce konuşma eğitimi sunuyoruz. 500'den fazla kurumsal müşterimizle çalışanların İngilizce özgüvenini artırıyoruz.
 
-Uygun olursanız 15 dakikalık kısa bir demo planlayabiliriz.
+İlginizi çekerse size özel bir çözüm sunumu hazırlayabilirim.
 
 Saygılarımla.
 
@@ -243,13 +243,13 @@ Konuşarak Öğren Kurumsal Ekibi
 
 ### LinkedIn DM
 
-Su, iyi günler.
+Merhaba Su,
 
 Turkcell bünyesindeki İK çalışmalarınızı takip ediyorum. Sınırlı İK bütçesiyle maksimum etki yaratma baskısı. Stratejik İK girişimlerine kaynak ayırmak zor.
 
 Konuşarak Öğren olarak kurumlara özel, günde 15 dakikalık İngilizce konuşma eğitimi sunuyoruz. 500'den fazla kurumsal müşterimizle çalışanların İngilizce özgüvenini artırıyoruz.
 
-İlginizi çekerse size özel bir çözüm sunumu hazırlayabilirim.
+Uygun olursanız 15 dakikalık kısa bir demo planlayabiliriz.
 
 Saygılarımla.
 
@@ -289,7 +289,7 @@ Konuşarak Öğren Kurumsal Ekibi
 
 ### LinkedIn DM
 
-Merhaba Şerife,
+Şerife, iyi günler.
 
 Turkcell bünyesindeki İK çalışmalarınızı takip ediyorum. Bordro ve özlük hataları çalışan memnuniyetini düşürüyor. Mevzuat değişikliklerine uyum sağlamak zaman alıyor.
 

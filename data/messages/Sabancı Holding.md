@@ -13,7 +13,7 @@ Toplam: 1 kişi
 
 ### LinkedIn DM
 
-Merhaba Gurhan,
+Gurhan, iyi günler.
 
 Sabancı Holding bünyesindeki İK çalışmalarınızı takip ediyorum. Dijital dönüşüm yetkinliği olan çalışan eksikliği. Yönetim kuruluna İK metriklerini iş sonuçlarıyla ilişkilendirerek sunmak zor. Grup şirketleri arası koordinasyon ek karmaşıklık getiriyor.
 

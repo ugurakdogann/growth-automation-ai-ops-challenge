@@ -13,7 +13,7 @@ Toplam: 5 kişi
 
 ### LinkedIn DM
 
-Merhaba Merve,
+Merve, iyi günler.
 
 THY bünyesindeki İK çalışmalarınızı takip ediyorum. Değişim yönetimi direnci — dijital dönüşüm projelerinde çalışan adaptasyonu yavaş. Orta kademe yöneticilerin İK okuryazarlığı düşük. Uluslararası standartlar İngilizce yetkinliği zorunlu kılıyor.
 
@@ -59,7 +59,7 @@ Konuşarak Öğren Kurumsal Ekibi
 
 ### LinkedIn DM
 
-Metin, iyi günler.
+Merhaba Metin,
 
 THY bünyesindeki İK çalışmalarınızı takip ediyorum. Çalışan bağlılığı ve motivasyonu düşük eğilimde — özellikle genç yetenekleri elde tutmak giderek zorlaşıyor. Uluslararası standartlar İngilizce yetkinliği zorunlu kılıyor.
 

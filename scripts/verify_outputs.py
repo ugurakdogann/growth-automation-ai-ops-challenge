@@ -54,16 +54,25 @@ def verify(data_dir: Path):
 
             email_count = count_nonempty("E-posta")
             estimated_count = count_nonempty("Tahmini E-posta")
-            evidence_count = count_nonempty("Email Kanit URL")
             print(f"      Excel satır: {len(rows)}")
             if email_count is not None:
                 print(f"      Excel E-posta dolu: {email_count}")
             if estimated_count is not None:
                 print(f"      Excel Tahmini E-posta dolu: {estimated_count}")
-            if evidence_count is not None:
-                print(f"      Excel Evidence URL dolu: {evidence_count}")
+
+            removed_detail_columns = [
+                "Email Kanit URL",
+                "Email Kaynak",
+                "Email Pattern",
+                "Email Notlari",
+                "Email Arama Sorgulari",
+                "Email Bulunan URL",
+            ]
+            leaked_detail_columns = [col for col in removed_detail_columns if col in idx]
+            if leaked_detail_columns:
+                print(f"      ⚠️  Excel'de teknik email kolonları var: {', '.join(leaked_detail_columns)}")
             else:
-                print("      ⚠️  Excel'de Email Kanit URL kolonu yok")
+                print("      ✅ Excel teknik email kolonları sadeleştirilmiş")
 
             if "E-posta" in idx and "Email Durumu" in idx:
                 xlsx_leaks = [

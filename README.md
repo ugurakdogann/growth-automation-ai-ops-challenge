@@ -13,7 +13,7 @@ LinkedIn DM / cold email mesajları hazırlamak.
 - Final dosya: `data/leads_final.xlsx`
 - Mesaj dosyaları: `data/messages/`
 - Gerçek herkese açık kişisel email: 0
-- Tahmini email: 181, ayrı kolonda ve kanıt URL'si ile
+- Tahmini email: 181, ayrı kolonda ve güven skoru ile
 - Needs review: 6 lead
 
 ## Çalıştırma
@@ -197,7 +197,7 @@ Email tahmini için kullanılır. `data/leads_enriched.csv` dosyasını okur,
 Gerçek kişisel email bulunmadıysa `email` boş kalır; tahmin ayrı alanlarda
 tutulur.
 
-Ürettiği alanlar:
+Teknik email enrichment dosyasında ürettiği alanlar:
 
 - `estimated_email`
 - `email_status`
@@ -206,11 +206,16 @@ tutulur.
 - `email_pattern`
 - `email_pattern_source_note`
 
+Final Excel dosyasında ise sade görünüm için yalnızca tahmini email, email
+durumu ve güven skoru gösterilir. Kanıt URL, pattern, kaynak notu, arama
+sorguları ve bulunan URL gibi teknik alanlar final Excel'e yazılmaz.
+
 ### `scripts/email_evidence.py`
 
 Email enrichment için kullanılan şirket-domain kanıt veritabanıdır. Her şirket
 için resmi domain, kanıt URL'si ve kaynak notu tutulur. Böylece tahmini email'in
-hangi kanıta dayanarak üretildiği final dosyada şeffaf şekilde görülebilir.
+hangi kanıta dayanarak üretildiği teknik CSV ve rapor dosyasında şeffaf şekilde
+görülebilir.
 
 ### `pipeline/generator.py`
 
@@ -224,7 +229,8 @@ Final Excel dosyasını ve firma bazlı Markdown mesaj dosyalarını üretir.
 
 Teslimden önce final dosyaları kontrol etmek için kullanılır. Excel dosyasının
 varlığını, satır sayısını, email alanlarını, tahmini email'in gerçek email
-kolonuna sızıp sızmadığını ve email kanıt URL'lerinin doluluğunu kontrol eder.
+kolonuna sızıp sızmadığını ve teknik email kolonlarının final Excel'den
+kaldırıldığını kontrol eder.
 
 Bu script'in amacı reviewer'a sadece çıktı değil, çıktının temel kalite
 kontrollerinden geçtiğini de göstermektir.
@@ -273,7 +279,7 @@ Mevcut final sonuç:
 - `estimated_from_employee_pattern`: 0
 - `estimated_from_company_domain`: 181
 - `low_confidence_guess`: 0
-- `Email Kanit URL`: 181/181 dolu
+- Final Excel'de teknik email kanıt/pattern kolonları kaldırıldı
 
 Önemli: Tahmini email hiçbir zaman gerçek email kolonuna yazılmaz.
 
@@ -299,7 +305,7 @@ Son doğrulama:
 - Excel satır: 181
 - Excel `E-posta` dolu: 0
 - Excel `Tahmini E-posta` dolu: 181
-- Excel `Email Kanit URL` dolu: 181
+- Excel teknik email kolonları sadeleştirildi
 - Email leak: yok
 - Rejected: 0
 

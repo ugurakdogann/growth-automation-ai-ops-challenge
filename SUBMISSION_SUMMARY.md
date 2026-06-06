@@ -17,7 +17,7 @@ uçtan uca çalışan bir iş akışı içerir.
 - Duplicate temizleme ve veri normalizasyonu yapıldı.
 - Şirket sektörü, şirket büyüklüğü, HR rolü, pain point, English need ve outreach angle üretildi.
 - Lead puanı hesaplama sistemi eklendi.
-- Email tahmini kanıt URL'si ve güven skoru bilgisiyle ayrı kolonda tutuldu.
+- Email tahmini güven skoru bilgisiyle ayrı kolonda tutuldu.
 - Her lead için LinkedIn DM ve cold email üretildi.
 - Final çıktıları doğrulayan kontrol betiği eklendi.
 
@@ -51,7 +51,8 @@ Doğrulanmış final sayılar:
 - Toplam lead: 181
 - Gerçek herkese açık kişisel email: 0
 - Tahmini email: 181
-- Tahmini email için kanıt URL'si: 181
+- Tahmini email: 181
+- Final Excel'de teknik email kanıt/pattern kolonları kaldırıldı
 - Gerçek email kolonuna tahmini email sızması: 0
 - Reddedilen kayıt: 0
 
@@ -60,11 +61,11 @@ Doğrulanmış final sayılar:
 Herkese açık kişisel HR email'i bulunmadığı için gerçek `email` alanı boş
 bırakıldı.
 
-Her şirket için resmi/herkese açık domain kanıt URL'si kaydedildi. Tahmini
-emailler `first.last@domain` formatıyla üretildi ve yalnızca `estimated_email`
-alanında tutuldu.
+Her şirket için resmi/herkese açık domain kanıt URL'si teknik enrichment
+dosyasında kaydedildi. Tahmini emailler `first.last@domain` formatıyla üretildi
+ve yalnızca `estimated_email` alanında tutuldu.
 
-Her tahmini email için şu alanlar eklendi:
+Teknik email enrichment dosyasında her tahmini email için şu alanlar eklendi:
 
 - `email_status`
 - `email_confidence`
@@ -72,7 +73,10 @@ Her tahmini email için şu alanlar eklendi:
 - `email_pattern`
 - `email_pattern_source_note`
 
-Bu sayede tahmini email'ler doğrulanmış gerçek email gibi gösterilmedi.
+Final Excel dosyasında ise sade görünüm için yalnızca tahmini email, email
+durumu ve güven skoru gösterildi. Kanıt URL, pattern, kaynak notu, arama
+sorguları ve bulunan URL gibi teknik alanlar final Excel'e yazılmadı. Bu sayede
+tahmini email'ler doğrulanmış gerçek email gibi gösterilmedi.
 
 ## Nasıl Çalıştırılır?
 

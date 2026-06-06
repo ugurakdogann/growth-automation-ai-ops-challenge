@@ -13,7 +13,7 @@ Toplam: 5 kişi
 
 ### LinkedIn DM
 
-Merhaba Şengül,
+Şengül, iyi günler.
 
 İş Bankası bünyesindeki İK çalışmalarınızı takip ediyorum. Çalışan bağlılığı ve motivasyonu düşük eğilimde — özellikle genç yetenekleri elde tutmak giderek zorlaşıyor. Regülasyon ve dijitalleşme arasında denge kurmak kritik.
 
@@ -59,7 +59,7 @@ Konuşarak Öğren Kurumsal Ekibi
 
 ### LinkedIn DM
 
-Merhaba Hakan,
+Hakan, iyi günler.
 
 İş Bankası bünyesindeki İK çalışmalarınızı takip ediyorum. Çalışan bağlılığı ve motivasyonu düşük eğilimde — özellikle genç yetenekleri elde tutmak giderek zorlaşıyor. Regülasyon ve dijitalleşme arasında denge kurmak kritik.
 
@@ -151,7 +151,7 @@ Konuşarak Öğren Kurumsal Ekibi
 
 ### LinkedIn DM
 
-Merhaba Ceren,
+Ceren, iyi günler.
 
 İş Bankası bünyesindeki İK çalışmalarınızı takip ediyorum. İK operasyonlarında dijitalleşme ve otomasyon ihtiyacı — manuel süreçler zaman kaybettiriyor ve hata riski yaratıyor. Regülasyon ve dijitalleşme arasında denge kurmak kritik.
 
@@ -197,7 +197,7 @@ Konuşarak Öğren Kurumsal Ekibi
 
 ### LinkedIn DM
 
-Seda, iyi günler.
+Merhaba Seda,
 
 İş Bankası bünyesindeki İK çalışmalarınızı takip ediyorum. Uzaktan çalışma modelinde eğitim etkileşimi düştü. Mikro-öğrenme ve kişiselleştirilmiş gelişim yol haritalarına ihtiyaç var. Regülasyon ve dijitalleşme arasında denge kurmak kritik.
 

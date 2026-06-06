@@ -93,8 +93,21 @@ class OutreachGenerator:
         filepath = Path(str(filepath).replace(".csv", ".xlsx"))
         filepath.parent.mkdir(parents=True, exist_ok=True)
         
-        # Mesaj kolonlarını hariç tut
-        exclude = {"linkedin_dm", "cold_email", "generated_at", "source_url", "notes"}
+        # Mesaj ve teknik email kanıt kolonlarını final Excel'den çıkar.
+        # Detaylı kanıtlar leads_email_enriched.csv ve email_enrichment_report.md içinde kalır.
+        exclude = {
+            "linkedin_dm",
+            "cold_email",
+            "generated_at",
+            "source_url",
+            "notes",
+            "email_evidence_url",
+            "email_pattern_source_note",
+            "email_pattern",
+            "email_notes",
+            "searched_queries",
+            "found_urls",
+        }
         fieldnames = [k for k in leads[0].keys() if k not in exclude]
         
         # Türkçe başlıklar
@@ -109,12 +122,6 @@ class OutreachGenerator:
             "estimated_email": "Tahmini E-posta",
             "email_status": "Email Durumu",
             "email_confidence": "Email Güven Skoru",
-            "email_evidence_url": "Email Kanit URL",
-            "email_pattern_source_note": "Email Kaynak",
-            "email_pattern": "Email Pattern",
-            "email_notes": "Email Notlari",
-            "searched_queries": "Email Arama Sorgulari",
-            "found_urls": "Email Bulunan URL",
         }
         
         wb = Workbook()
@@ -136,6 +143,8 @@ class OutreachGenerator:
         for row, lead in enumerate(leads, 2):
             for col, key in enumerate(fieldnames, 1):
                 val = lead.get(key, "")
+                if val is None:
+                    val = ""
                 # Sayısal değerleri dönüştür
                 if key == "lead_score":
                     val = int(val) if val else 0
@@ -151,9 +160,7 @@ class OutreachGenerator:
             "english_need": 5, "outreach_angle": 50, "lead_score": 6,
             "hr_role": 20, "needs_review": 10,
             "estimated_email": 28, "email_status": 16,
-            "email_confidence": 14, "email_evidence_url": 45,
-            "email_pattern_source_note": 34, "email_pattern": 14,
-            "email_notes": 28, "searched_queries": 60, "found_urls": 45,
+            "email_confidence": 14,
         }
         for col, key in enumerate(fieldnames, 1):
             if key in width_map:

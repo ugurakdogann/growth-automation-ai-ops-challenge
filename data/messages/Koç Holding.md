@@ -13,13 +13,13 @@ Toplam: 5 kişi
 
 ### LinkedIn DM
 
-Merhaba Ayten,
+Ayten, iyi günler.
 
 Koç Holding bünyesindeki İK çalışmalarınızı takip ediyorum. Sınırlı İK bütçesiyle maksimum etki yaratma baskısı. Stratejik İK girişimlerine kaynak ayırmak zor. Grup şirketleri arası koordinasyon ek karmaşıklık getiriyor.
 
 Konuşarak Öğren olarak kurumlara özel, günde 15 dakikalık İngilizce konuşma eğitimi sunuyoruz. 500'den fazla kurumsal müşterimizle çalışanların İngilizce özgüvenini artırıyoruz.
 
-İlginizi çekerse size özel bir çözüm sunumu hazırlayabilirim.
+Uygun olursanız 15 dakikalık kısa bir demo planlayabiliriz.
 
 Saygılarımla.
 
@@ -59,7 +59,7 @@ Konuşarak Öğren Kurumsal Ekibi
 
 ### LinkedIn DM
 
-Merhaba Enes,
+Enes, iyi günler.
 
 Koç Holding bünyesindeki İK çalışmalarınızı takip ediyorum. Sınırlı İK bütçesiyle maksimum etki yaratma baskısı. Stratejik İK girişimlerine kaynak ayırmak zor. Grup şirketleri arası koordinasyon ek karmaşıklık getiriyor.
 
@@ -105,7 +105,7 @@ Konuşarak Öğren Kurumsal Ekibi
 
 ### LinkedIn DM
 
-Merhaba Eli̇f,
+Eli̇f, iyi günler.
 
 Koç Holding bünyesindeki İK çalışmalarınızı takip ediyorum. Departmanlar arası yetenek transferi zor — silo yapısı İK'nın bütünsel strateji geliştirmesini engelliyor. Veriye dayalı İK kararları eksik. Grup şirketleri arası koordinasyon ek karmaşıklık getiriyor.
 
@@ -157,7 +157,7 @@ Koç Holding bünyesindeki İK çalışmalarınızı takip ediyorum. Çalışan 
 
 Konuşarak Öğren olarak kurumlara özel, günde 15 dakikalık İngilizce konuşma eğitimi sunuyoruz. 500'den fazla kurumsal müşterimizle çalışanların İngilizce özgüvenini artırıyoruz.
 
-Uygun olursanız 15 dakikalık kısa bir demo planlayabiliriz.
+İlginizi çekerse size özel bir çözüm sunumu hazırlayabilirim.
 
 Saygılarımla.
 
@@ -197,7 +197,7 @@ Konuşarak Öğren Kurumsal Ekibi
 
 ### LinkedIn DM
 
-Merhaba Nilay,
+Nilay, iyi günler.
 
 Koç Holding bünyesindeki İK çalışmalarınızı takip ediyorum. Yetenek savaşı — kaliteli yazılımcı ve ürüncü bulmakta zorlanıyor. İngilizce bilen teknik ekip kurmak kritik rekabet avantajı. Grup şirketleri arası koordinasyon ek karmaşıklık getiriyor.
 
